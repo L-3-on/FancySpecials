@@ -1,0 +1,28 @@
+[
+  {
+    "id": "salmon_smoked_hot",
+    "type": "COMESTIBLE",
+    "copy-from": "fish_smoked",
+    "name": { "str_sp": "hot smoked salmon" },
+    "description": "A deep and pronounced smoky flavour, accompanied by a flaky texture, mark this salmon dainty.  Heavily smoked for long term preservation.  It could be smoked even further to dehydrate it completely.",
+    "color": "brown",
+    "spoils_in": "24 days",
+    "price_postapoc": 300,
+    "fun": 6,
+    "flags": [ "EATEN_HOT", "EATEN_COLD", "SMOKED", "SMOKABLE" ],
+    "smoking_result": "dry_fish"
+  },
+  {
+    "id": "salmon_smoked_cold",
+    "type": "COMESTIBLE",
+    "copy-from": "fish_smoked",
+    "name": { "str_sp": "cold smoked salmon" },
+    "description": "With it's light but mouth-watering smoky flavour and silky texture this delicacy comes close to real perfection!  Smoked at lower temperature, this produce wasn't made for long term preservation.  Can be further smoked to dehydrate it completely.",
+    "color": "brown",
+    "spoils_in": "12 days",
+    "price_postapoc": 300,
+    "fun": 8,
+    "flags": [ "EATEN_COLD", "SMOKED", "SMOKABLE" ],
+    "smoking_result": "dry_fish"
+  }
+]

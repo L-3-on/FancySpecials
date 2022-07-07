@@ -1,0 +1,11 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "FancySpecials",
+        "name": "Fancy Specials",
+        "authors": [ "Leon713" ],
+        "description": "To satisfy all those ... special ... needs.",
+        "category": "items",
+        "dependencies": [ "dda" ]
+    }
+]

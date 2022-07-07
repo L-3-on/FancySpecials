@@ -1,0 +1,15 @@
+[
+  {
+    "id": "groce_meat",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "meat_smoked", "prob": 20 },
+      { "item": "fish_smoked", "prob": 20 },
+      { "item": "salted_fish", "prob": 15 },
+      { "item": "salmon_smoked_hot", "prob": 10 },
+      { "item": "salmon_smoked_cold", "prob": 5 },
+      { "item": "fish", "prob": 30 }
+    ]
+  }
+]
