@@ -1,0 +1,264 @@
+[
+  {
+    "type": "snippet",
+    "category": "scores",
+    "text": [
+      {
+        "id": "scores_1",
+        "text": "The card is printed with 2 boxes.  In the first box you see a tally of 5 tick marks.  The second box has a total of 9."
+      },
+      {
+        "id": "scores_2",
+        "text": "The card is printed with 2 boxes.  In the first box you see a tally of 3 tick marks.  The second box has a line trailing off to the edge and a bloody fingerprint."
+      },
+      {
+        "id": "scores_3",
+        "text": "The card is printed for a game of golf.  Someone has filled out their score for the first 9 holes."
+      }
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "charsheet",
+    "text": [
+      {
+        "id": "charsheet_1",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a fighter."
+      },
+      {
+        "id": "charsheet_2",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a bard."
+      },
+      {
+        "id": "charsheet_3",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a cleric."
+      },
+      {
+        "id": "charsheet_4",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a wizard."
+      },
+      {
+        "id": "charsheet_5",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a rogue."
+      },
+      {
+        "id": "charsheet_6",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a barbarian."
+      },
+      {
+        "id": "charsheet_7",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a warlock."
+      },
+      {
+        "id": "charsheet_8",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a paladin."
+      },
+      {
+        "id": "charsheet_9",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a sorcerer."
+      },
+      {
+        "id": "charsheet_10",
+        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a DINGUS."
+      }
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "pyromania_withdrawal",
+    "text": [
+      "You feel cold.  You need the warmth of a fire.",
+      "Maybe a fire could calm your nerves?",
+      "You need to ignite something.",
+      "You daydream of crackling fire…",
+      "You shiver.  A fire would be great right now.",
+      "You think about how nice fires are.",
+      "You think of randomly lighting a fire, but decide against it."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "killer_withdrawal",
+    "text": [
+      "You think of steel blades and warm, dripping blood.",
+      "You'd like to hear the last breath of something living.",
+      "So much death around.  Why not add some more?",
+      "You lick your lips, in anticipation for dead trophies.",
+      "By the blade or by the gun?  How will you kill this time?",
+      "Ahh, how delightful it would be to kill something.",
+      "You are death, and you are coming for them.  Soon.",
+      "You feel restless.  It's been too long since your last kill.",
+      "Killing something would be nice right now.",
+      "Just one more death, one more kill and then you'd be right."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "killer_on_kill",
+    "text": [
+      "You feel the rush of the kill.",
+      "Your urge to kill is sated, for now.",
+      "You have the power of life and death; it feels good to be in control.",
+      "You exhale in bliss.",
+      "A calm feeling washes over.",
+      "This feels right.",
+      "You kill, and your world is in order again.",
+      "Your worries evaporate as the creature dies by your hand.",
+      "That was nice!  Maybe one more?",
+      "This feels so good!  You could do this all day.",
+      "This brings a smile to your face.",
+      "You feel tension leave your body as your need to kill is satisfied.",
+      "You feel much better now."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "tree_communion",
+    "text": [
+      "You catch a glimpse of distant green.",
+      "The sense of a faraway place comes up through your roots.",
+      "The trees tell you of the world.",
+      "The rustling leaves paint a picture in your head.",
+      "Your consciousness drifts into the wild green yonder.",
+      "The trees whisper of remote acres.",
+      "The trees speak of their far-flung relatives.",
+      "Visions of unfamiliar forests flicker through your mind.",
+      "You picture yourself as one branch among many.",
+      "New knowledge blooms within you.",
+      "The horizon beckons with promises of pollen.",
+      "Your awareness grows in directions heretofore unknown.",
+      "A tree falls in a forest, and you hear its sound.",
+      "You feel the hum of untold biomass.",
+      "A tingle of understanding runs from your roots and up your spine.",
+      "You gain new appreciation for the interconnectedness of life.",
+      "You ask, and the trees answer.",
+      "You see the forest for the trees.",
+      "In the minute shifts and pivots of the trees, you hear the language of the universe."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "headshop_graffiti",
+    "text": [
+      "(~);}",
+      "<given_name> + <given_name> forever",
+      "Be Kind",
+      "Save the whales!",
+      "Save the DINGUS!"
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "speaker_warning",
+    "text": [
+      "HEY DUMBASSES!",
+      "HEY DUMBHEADS!",
+      "HEY MORONS!",
+      "HEY WALKERS!",
+      "HEY ZOMBIES!",
+      "GET OVER HERE!",
+      "IT'S A TRAP!",
+      "IF YOU'RE NOT A ZOMBIE, DON'T COME CLOSER!",
+      "IF YOU'RE NOT A ZOMBIE, RUN AWAY AS FAST AS YOU CAN!",
+      "HEY DINGUSES!"
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "dogwhistle_message_npc_not_hostile",
+    "text": [
+      "What is this unbearable sound!?",
+      "STOP.  MY EARS",
+      "I'm not a dog…",
+      "Would you kindly not do that?"
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "dogwhistle_message_npc_hostile",
+    "text": [
+      "I WILL MURDER YOU",
+      "I'LL SHOVE THAT WHISTLE DOWN YOUR THROAT",
+      "You're seriously pissing me off…",
+      "I'm not a dog…",
+      "What is this unbearable sound!?"
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "dogwhistle_message_you",
+    "text": ["You hate this loud sound."]
+  },
+  {
+    "type": "snippet",
+    "category": "examine_photo_msg",
+    "text": [
+      "You used to have a dog like this…",
+      "Ha-ha!  An amusing cat photo.",
+      "Excellent pictures of nature.",
+      "Food photos… your stomach rumbles!",
+      "Some very interesting travel photos.",
+      "Pictures of a concert of popular band.",
+      "Photos of someone's luxurious house.",
+      "You feel nostalgic as you stare at the photo."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "magic_8ball_good",
+    "text": [
+      "It is certain.",
+      "It is decidedly so.",
+      "Without a doubt.",
+      "Yes - definitely.",
+      "You may rely on it.",
+      "As I see it, yes.",
+      "Most likely.",
+      "Outlook good.",
+      "Yes.",
+      "Signs point to yes."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "magic_8ball_unknown",
+    "text": [
+      "Reply hazy, try again.",
+      "Ask again later.",
+      "Better not tell you now.",
+      "Can't predict now.",
+      "Concentrate and ask again."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "magic_8ball_bad",
+    "text": [
+      "Don't count on it.",
+      "My reply is no.",
+      "My sources say no.",
+      "Outlook not so good.",
+      "Very doubtful."
+    ]
+  },
+  {
+    "type": "snippet",
+    "category": "comest_stimulant",
+    "text": [
+      "The shadows are getting ever closer.",
+      "You have a bad feeling about this.",
+      "A powerful sense of dread comes over you.",
+      "Your skin starts crawling.",
+      "They're coming to get you.",
+      "This might've been a bad idea…",
+      "You've really done it this time, haven't you?",
+      "You have to stay vigilant.  They're always watching…",
+      "mistake mistake mistake mistake mistake",
+      "Just gotta stay calm, and you'll make it through this.",
+      "You're starting to feel very jumpy.",
+      "Something is twitching at the edge of your vision.",
+      "They know what you've done…",
+      "You're feeling even more paranoid than usual."
+    ]
+  }
+]
