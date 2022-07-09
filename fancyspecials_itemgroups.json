@@ -1,15 +1,63 @@
 [
   {
-    "id": "groce_meat",
     "type": "item_group",
-    "subtype": "distribution",
-    "entries": [
-      { "item": "meat_smoked", "prob": 20 },
-      { "item": "fish_smoked", "prob": 20 },
-      { "item": "salted_fish", "prob": 15 },
-      { "item": "salmon_smoked_hot", "prob": 10 },
-      { "item": "salmon_smoked_cold", "prob": 5 },
-      { "item": "fish", "prob": 30 }
-    ]
+    "id": "groce_meat",
+    "copy-from": "groce_meat",
+    "extend": {
+      "items": [
+        { "item": "meat_smoked", "prob": 20 },
+        { "item": "fish_smoked", "prob": 20 },
+        { "item": "salted_fish", "prob": 15 },
+        { "item": "salmon_smoked_hot", "prob": 10 },
+        { "item": "salmon_smoked_cold", "prob": 5 },
+        { "item": "fish", "prob": 30 }
+      ]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "fridge",
+    "copy-from": "fridge",
+    "extend": {
+      "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 25 }]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "SUS_fridge_stocked",
+    "copy-from": "SUS_fridge_stocked",
+    "extend": {
+      "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 25 }]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "SUS_fridge_partial_empty",
+    "copy-from": "SUS_fridge_partial_empty",
+    "extend": {
+      "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 15 }]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "SUS_fridge_bachelor",
+    "copy-from": "SUS_fridge_bachelor",
+    "extend": {
+      "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 15 }]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "SUS_fridge_survivor",
+    "copy-from": "SUS_fridge_survivor",
+    "extend": {
+      "items": [{ "group": "groce_meat", "count": [1, 4], "prob": 15 }]
+    }
+  },
+  {
+    "type": "item_group",
+    "id": "bedroom",
+    "copy-from": "bedroom",
+    "extend": { "items": [{ "item": "bagpipes", "prob": 25 }] }
   }
 ]
