@@ -1,0 +1,2327 @@
+[
+  {
+    "//": "Klaxon: 90 // Tannoy announcement: 70 // Yelling: 40 // Shouting: 32 // Talking loudly: 20 // Talking: 15 // Talking quietly: 10 // Whispering: 8-5",
+    "type": "speech",
+    "speaker": [ "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"an earsplitting air raid warning.\"",
+    "volume": 90
+  },
+  {
+    "//": "Klaxon: 90 // Tannoy announcement: 70 // Yelling: 40 // Shouting: 32 // Talking loudly: 20 // Talking: 15 // Talking quietly: 10 // Whispering: 8-5",
+    "type": "speech",
+    "speaker": [ "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Are you there?\"",
+    "volume": 32
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_shoggoth", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "bubbling and gurgling.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_leech_blossom", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "visceral gurgling.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "talking_doll", "mon_mannequin_decoy", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "giggling and a soft voice saying \"You seem to be a nice person.\"",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "an electronic voice saying \"ERASER PROTOCOL ACTIVATING… ACTIVATION FAILED… REBOOT IN 30 SECONDS…\"",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_grocerybot_hacked", "mon_grocerybot_friendship_done", "mon_grocerybot_running_out_of_friendship", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "a crackling hum.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_prototype_cyborg", "mon_broken_cyborg", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "a crackling hum.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_nursebot_defective", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "a crackling hum.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_eyebot", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "Keep your hands where i can see them!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "foodperson_mask", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I AM FOOD…\" followed by static noise.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_mutant_experimental", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "WHERE AM I?",
+    "volume": 32
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_feral_sapien_spear", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "Die.  Die!  DIE!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_dog", "mon_dog_bull", "mon_dog_pitbullmix", "mon_dog_beagle", "mon_dog_bcollie", "mon_dog_boxer", "mon_dog_chihuahua", "mon_dog_dachshund", "mon_dog_gshepherd", "mon_dog_gpyrenees", "mon_dog_rottweiler", "mon_dog_auscattle", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "a whimper.",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_dermatik_incubator_bear", "mon_dermatik_incubator_deer", "mon_dermatik_incubator_dog", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "panting.",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "a cry of pure agony!",
+    "volume": 20
+  },
+  {
+    "//": "Klaxon: 90 // Tannoy announcement: 70 // Yelling: 40 // Shouting: 32 // Talking loudly: 20 // Talking: 15 // Talking quietly: 10 // Whispering: 8-5",
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"So, now we can bring in… I guess… the lady that keeps trying to ram my ass!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Crazy butt lady's gone in!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Am I just supposed to ignore the butt lady in the room?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Butt lady is the light of my life!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'll unleash butt lady!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The biggy pank!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't know if I need a button to suck!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Flying through weird orifices can be an exciting experience!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The best I can do is this thrusting motion!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"This isn't the right hole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"He's passively sucking!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let's get sucking!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I got a nice stick!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Butt energy!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The butt violence, it's going to be the end of me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Ahh!  You torped my butt!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Can you stop hitting my butt!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We were flamethrowering its space butt!  Doesn't that mean anything anymore!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Did my butt break!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You just took my pants!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I was grabbing my own meat in the prison and they act like I was a criminal!  I guess we now know to only touch our meat outside.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's great, we got crabs!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If anything we gotta figure out a place to stuff our meat, because we've got waaay too much meat.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Also I find it bizarre I can just walk up and pick up one of those guys!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"No chum!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I kinda wish I could put out like a, uh, like some sort of fuck off buoy!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's my cockpit!  I paid for it!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If that dude dump doesn't do it, I dunno what I'm gonna do!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If you guys weren't ass to ass over there it'd make this a little bit easier!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I wish there was a way to selectively suck!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We did a lot of toilet slurping!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Am I dead or is this a cutscene!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The Shrek Kingdom?  No the Shek Kingdom, they're the horny people!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Is your butt online?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Maybe the chumbucket is the secret sauce!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I love how the second there's a zombie everyone's like:  'Can you fuck it!?'\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I could take a picture of my toilet if she wants me to.  I'll send it straight to her, and she'll like it.  She'll be like thank you, thank you for showing me your filthy disgusting toilet!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah, you know what?  The cereal's gonna hafta wait, lets take a picture of my crapper!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"How did George Lucas destroy his art?  Oh, he like re-edited the original versions of star trek!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Cupcake REPOSITORY, not cupcake SUPPOSITORY!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm not going to murder you… I'm just gonna take you home, throw you in a bed, and fist you.  Nothing weird.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Maybe if we just commit to one direction!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"For the most part we are defecating in public places!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'll probably come see you when my freakish child comes out of you!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh she's going to take a ghost shit!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We kinda got distracted by the buttcrack gnome!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"OH NO!  We are doing cardio!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We have to create pooping isolation booths!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We had to craft the blood toilet!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We had a beautiful date where we looked at the stars and clogged her toilet!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We had a beautiful date where we looked at the stars and clogged her toilet!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm a thousand years old and gonna go bang a teenager!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Mmm, give me those creamy flaps!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I didn't know we had a meat yoinker!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I was temporarily banned on Twitch because of cannibal tits!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There was a cannibal lady who had ample chesticles!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Lets look under this gorilla's butt!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Who's going to get locked in the bathroom in the evac shelter?  You are!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I guess we can have condom water!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let me just drink my condom water!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It doesn't have to be exotic, as long as it's erotic.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"*Gasp* Oh no I dropped my condom!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I thought we just exploded a full condom of hot water all over our loot!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Wait, is my condom empty?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It takes longer to make condom water than you'd think…\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We have a body pillow!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm gonna fist her right in her robot face.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You do not fuck with doritos, they fuck with you!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Love me some elderly secretaries.  You know when you go out on a date and get the senior discount, I mean… it's wonderful.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah go ahead and punish me, I can take it!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"For some reason they threw tiddies everywhere!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You go to the grocery store… tiddies!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"People are like 'You're such a monster with your beak thing fisting tower' but whatever!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"He's too thicc to fit in a bed!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It was just like a straight fart from the bus stop to the doorway!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's not even going in the hole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're taking the grabber back to the hole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh fuck I just nailed like three racoons!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I have a lot of shit in my pants.  I need to do something about that.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I keep some of my fluids in condoms, yeah.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let's fill our condom up!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Give me my condom gasoline back!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Walls aren't real!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I've seen hos before!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I like animals, but… they kinda suck.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It took a while to stab that kid!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It actually seems like a good use of toilet water.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Beer is fucking awesome!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I just took off my underpants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm gonna drag this beer back to my house!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm drinking like I dunno… 10 to 15 beers a day.  About a meal or whatever I drink 5 beers!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I want to stuff the hose in my pants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh my god, go in the hole!  There we go!  For fucks sake, there's a hole there, you can use it!  I'll yell!  I'm here!  Don't just fuck up the back of it!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm gonna give up on foodplace!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm not sure if I am gonna get lucky in a garage!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm not sure if I am gonna get lucky in a garage!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let's go dump our load off in the shopping cart!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"No no, you already got your butthole.  You already got your butthole, okay!  You got your butthole, thats all you're gonna get… at least for a little bit.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh yeah that's right, we were killing everybody here!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Did I fart on accident?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We should make a hotkey to fart!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You got killed by my farts!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"My farts kill people!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm like a weird fish in a weird ocean!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The tortoise is ass-blasting my mind!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I do still have feet I think!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Wait… it has meth!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I can eat some questionable bologna!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm serious… I'm gonna go back to chugging beer.  I never should have forsaken it!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I guess I can stuff the meat in the washing machine!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I've never had brains as far as I'm aware in my life!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Bashing that kid with an axe was more work than I thought it would be!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I recycle my own fluids!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're stinky!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm not wearing pants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm already pretty turgid.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You can get over child murder if you have pretzels!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We stuffed it in every hole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I should pound a bunch of beers and go to sleep.  Seems like the responsible thing to do!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh that's right, I should be doing this naked!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm not going to bother putting my pants on anymore!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're gonna hafta unload my shorts.  And then we have to stuff this in my pants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If we fart we destroy our chokepoint!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I just want to stab you with my love!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm going to fart all over this asshole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm gonna get clapped by a pig!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I yearn for the days of toilet sex!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You can't get shot in the weiner if you don't have a weiner!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Dick shots are awesome!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Dick shot, don't fail me now!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"What was butthole again?  I don't even remember!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Do I have a teapot in my pants?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm going to stuff this trumpet in my pants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Putting on a vibrator might be tricky!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We don't have space for fucking condoms!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You block a lot of damage with your vibrator!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't think I've seen a ho!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I actually destroyed the toilets earlier!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm banging as hard as I can!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I've never wanted to lick the ground more than I do right now!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Shitbag gets a bullet!  My god he almost bit my fucking head off!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The turgity is flowing into me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh I rubbed the wrong button!  Wrong button!  Wrong button!  Not the right one!  Not the right button!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't know if I can stuff that in my pants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Apparently my pants are stuffed!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We can hit that shit from the back!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I think I saw a ho in there!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We take control of the Waifu Body Pillow!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You start fisting people and they all start blending together!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You can decide to go film a porno with a super mutant if you want to!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"They are five times as thicc as a regular human!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Can I make the porno yet?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Head to the back, start waxing the shaft!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"How did I hit a fucking prostitute again!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Does he have a prostitute inside him!?  Is it like a chest burster or something!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"These are hooker seeking bullets!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I keep shooting drug dealers and I keep hitting prostitutes!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Is this guy fucking batman!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There's no hooker vendetta!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I thought I was signing up for a porno and we're on the wrong thing!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Most encounters happen at butt sniffing distance!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm totally streaming right now wearing a purple wizard robe!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"So now I should be able to bang his family with impunity!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Guess we knocked her up, whatever.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Stop telling me to wax shafts!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I have a full head of hair on my butt!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh no!  I'm gonna get blocked in the crapper by that guy!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Lady, you're lucky I don't have a dick for you to shoot!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're having a fat guy throw up on us!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We were very thorough with the bush.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Get stuck in an alley and let a fat guy vomit on me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Is that the disappointment bike?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I have another spot on my 24 inch dong!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The beaver's trying to fuck me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Now you're going to get stabbed by a sharpened baguette!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We gave the mall a brazilian!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I think I want the nipple clamps!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Bounty feet!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I will 100% whore myself out for cold smoked salmon!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"He's coming right for me!  Jerk off faster!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's an immaculate donkey but it's a fucking donkey!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're going to strategically yeet some of our troops in here unsupported in a line!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"That hump is hard, it's a hard hump!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You know beating this game it kinda gives you that like, uh, gives you like an after poop glow!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Please bite me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We did all of that just so we could get punished by the rock titty women!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The fucking titty woman is blocking everything!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Why are we committing dinosaur infanticide?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We have a hamster's penis!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're at war with the perverts!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm about to get screamed at by space women!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The butt bongo can shoot forward!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You should be capable of clapping that like you're trying to turn on the lights!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There's just boobs everywhere and then the scale is really impressive!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I think I just destroyed my ass while I was looking away!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Part of my butt don't work!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"My waifu pillow made it out!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"This is what you think french people look like?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Well thats kinda metal!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm in the shit now!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's just like camping my shit ball!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The drildo was too good.  Like it wasn't, uh, like obscenely… I mean it was kinda busted!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We probed a weird hole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We have butt cheek cleavage!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You always stretch to jam dicks into everything!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Is this before we got pinball fascism?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm still cute as hell!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We're getting fucked by dolphins; this is not good!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh no!  It's getting fucked by dolphins!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"That's tactical cleavage!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There is a gameplay reason I'm not wearing pants!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Maybe I should put pants on!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"My butt don't work… kinda wish my butt worked…\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm not gonna die!  So you can all eat shit for betting against me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Another grandma down!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I feel like I'm entering into some kind of weird etherial mall bathroom right now.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If my butt was functional that'd be great!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"She just constantly goes for my butt, just leave it alone!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Why are you always up my butt?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Pleasant music to fist things to!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I smell fucking delicious!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Wolves are great for butt stuff!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There are few things in life as satisfying as getting on the butt of a dommy.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"My butt's broke!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"They're working my butt!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I just got a lot of crabs!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There will be so much penetration!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I could do drugs!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I am never not erect!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There was going to be a tidal wave of dudes to fist!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Holy shit we need to stab a pig, sorry oinky!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's probably the other Alf!… I don't need to be tag teamed by Alfs!  And everyone hates Alf because who wouldn't hate Alf!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I really think it's Alf… Wait, which Alf!?… Is this the shifty Alf, or is that the shifty Alf!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Brittany is invading through the entire Mediterranean, through the Red Sea, all the way around the Arabian peninsula!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh Calvin Threebutts made a cadet branch!?  Your coat of arms sucks!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I kinda regret banging nothing but grandmas!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You gotta protect your butt!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh thats right, I forgot I was trying to bang you!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'll just bang grandmas!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Maybe that guy will come for me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Now let's get the pants off this duck!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"She gave birth to microwaved water!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Hopefully it's not a kid!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Wham!  Grandma tiddies!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Our economy is based off blackmail!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Fuck, you cant blackmail kids!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Are you fucking kidding me?!  Are you abso-fucking-lutely kidding me!?  God you know how much work it was to create Pikachu!?  And now Pikachu is fucking dead!  Awww my god… goddamnit!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We'll legitimize Pikachu!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"My dick is working too well right now, it is kinda scary!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Now lets see if we can actually delay their charge for a little bit without being murdered…\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I make this character and suddenly everyone isn't heterosexual anymore!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Horses don't have shields!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"They're horny people!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"They're cutesy racist!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We are looking for desperate and clingy!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I just haven't gotten abrowned to getting you again!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I thought my dong was going to run off!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Maybe the dutch can mug for us!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Owwwwwwwww!?!  Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Uh oh… Apart tearing!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I am not going to take an arrow to the face!\" and after a moment of silence \"I got javelined in the foreface!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You're the wiener ripper!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I feel like I would benefit right now maybe from just more intelligence!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"What is west?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah it looks like we're uh… we're playing around in their rear a little bit now!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I think they'll already start deploying the automated re-pale!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There's a lot going on and what we're doing now is like training shoes for the real thing.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Just leave me to jerk off through this tree!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah, it's not the biggest… but it's mine!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's really hard to get the Americans to leave you alone, once they've set their sights on you.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Uhh oh, Santa is a human trafficker.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I haven't touched it in a long time!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm down for some weird shit!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"The big four oh!?  You shut the hell up!  I'm 330!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Get over here so I can fist you!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'll respect democracy when it's convenient!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You always want to keep the depth of your shit in mind!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Negative!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If I'm not streaming, eating, sleeping, or doing whatever else… I'm yeah… It's… I'm playing Colonel Sanders.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"You wanna fuck the paper guy!?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"They will think I'm a wierdo.  And not for the right reasons!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Butt ladies!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Where am I?  It is so dark.  Is that the right hole?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I think we hit it from behind!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Why would I assume that like, sucking some weird coral nipple would give me oxygen?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm a regular human being!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We definitely want to add moron!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If I were a millionaire I would die of mercury poisoning.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Uh, we don't have any lube back there… either… do we?  I'll just grab this.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I am the Pooh.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We don't have time for lube!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"My hole is possessed?  Don't possess my hole!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't want to get fucked by wheelchairs!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I just make it look that way, baby!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"HERE ARE SOME GOOD OLD GRANDMA TITTIES!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"There's very few of your problems that can't be solved by stabbing or shooting somebody.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Sorry for the aggressive thrusting.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Bezos personally comes to my house and hands me six-figure checks now.  That's my life now.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I imagine you don't put scalding hot coffee up your butt, but I don't know the logistics of this,\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I have a friend?  How the fuck did that happen?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah, I'm a big mexican nationalist here, that's what I am about here.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Burn the heretics.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"That should have at least been hitting taint!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"He'll get all the 'thoughts and prayers' but no medical attention!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"OH YES HURT ME SO GOOD!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I wonder if I can drink from her toilet.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Dingus shaped butt plug?  It's already in the works.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Stop it wind, you bitch!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Ahhhhhh, I can only nibble the tip!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Can people stop wanting to fuck me I'd really appreciate it!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I think those are words, don't quote me though.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm trying to recreate the Byzantine Empire for Reddit but I'm dummy thicc and the clap of my asscheeks keeps alerting the Turks!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Can we talk about big balls for a second!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yes today is actually my birthday!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"And now our dongs are one.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"That is the biggest dong I have ever had.  That is an enormous dong.  That is beautiful… Look at that thing!  Look at that thing!  It's… it's huge.  I've never seen it stretch!  I didn't even know it could stretch up all the way up here.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It's showing me the butt.  I can't resist!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Lets try to finish off those Canadians.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Hey!  There is nothing wrong with space empires run by greasy fat guys.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "a quiet voice saying \"I have to hit things with my butt.\" and after a short pause saying way louder \"I WILL hit things with my butt!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"So mine is bigger than yours…\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Right when my dong gets huge, too.  It has to run off with the Japanese.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let's take off his pants.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I am a Simpsons character!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh, that will be HOT!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Do you want to give your eyeballs an erection, or have them be flaccid?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I was hoping it would get bigger, but instead it got tinier and it got curved… it's disappointing.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh no, the French like me!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yoink that meat!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Okay, now we gotta decide how horny we get with this.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Well, we have a Beak Thing in our bed that we are fisting.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"If it means I can somewhat safely fist this thing in perpetuity, why not?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We had sheep and hookers and we just lost the hookers.  All we have is fucking sheep!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Imprisonment?  Imprisonment is fun!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Never bother with making friends.  It is garbage.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm a chunky man.  I go for chunky exclusively.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't care who touches me as long as they give me money.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Her butt hitbox was so large, we like accidentally fisted it!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Error connecting to remote server!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let me see if I can find a picture of Big Foot tits.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm 72!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah, fisting and blasting things gets shit done!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Did I kill you?  No, you look alive - lets fix that.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Let's go fist a crab!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Did you clog the toilet?  No, just crying over the loss of a loved one, thought it was something serious.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yeah we're going to make a squad of kleptos to go around and ransack peoples bathrooms!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Yes, underpants.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I want his pants to be colored like the 70s threw up on them.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"GO EAT SPAGHETTI YOU MORON!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I wish I could get one to come in the middle of the night.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm being somewhat misrepresented!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm some timeless ageless mix of Quentin Tarantino and Prometheus!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't sound like the hemorrhoid commercial guy…\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"It sounds like someone is reaching into a bowl of mac and cheese and just… groping around!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Well I can't let all this cat meat go to waste!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I want to fist you with every fiber of my being you bald fuck.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I want to fist you SO BAD… but not yet!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"OH YEAH!  HIT ME HARDER!  THIS IS GREAT!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm a dirty boy.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I don't really care about romancing a, uh virtual asshole lady!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Oh right!  I can eat people!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Great wars are a WONDERFUL thing!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Can I fall in the hole or am I too thicc?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Work on that butt like it is a dark souls boss!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Toasters and genitals don't mix.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I am a slut for strings!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Communism is coming, and so am I.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"We don't need to fist this guy but it would be immense satisfaction.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Lets put a bandage in our nipple clamps. That way if I need it later it's there.\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"Being thrown up by a fat guy through a window is at least honest, right?\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"They sound so cute when they're in pain!\"",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "mon_memory", "mon_mutant_experimental", "creepy_doll", "mon_mi_go", "mon_mi_go_slaver", "mon_mi_go_surgeon", "mon_mi_go_guard", "mon_mi_go_myrmidon", "mon_mi_go_captured" ],
+    "sound": "\"I'm gonna put all your asses in my trunk!\"",
+    "volume": 15
+  }
+]

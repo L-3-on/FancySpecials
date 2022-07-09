@@ -93,7 +93,8 @@
       {
         "id": "general_graffiti_33",
         "text": "This is a spraypainting of an anatomically unlikely woman wearing very little."
-      }
+      },
+      { "id": "general_graffiti_34", "text": "<given_name> <3 Drid" }
     ]
   },
   {
@@ -176,7 +177,11 @@
       { "id": "shelter_graffiti_32", "text": "GOVERMENT DID THIS TO US" },
       { "id": "shelter_graffiti_33", "text": "FUCK CHINA" },
       { "id": "shelter_graffiti_34", "text": "FUCK THE COMMUNISTS" },
-      { "id": "shelter_graffiti_35", "text": "Remember <given_name>" }
+      { "id": "shelter_graffiti_35", "text": "Remember <given_name>" },
+      {
+        "id": "shelter_graffiti_36",
+        "text": "This is a far-too-detailed drawing of an enormous DINGUS."
+      }
     ]
   }
 ]
