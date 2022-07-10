@@ -1,0 +1,10 @@
+[
+  {
+    "type": "item_group",
+    "id": "dishes_utility",
+    "copy-from": "dishes_utility",
+    "extend": {
+      "items": [{ "group": "electric_kettle", "prob": 80 }]
+    }
+  }
+]

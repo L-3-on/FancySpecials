@@ -1,0 +1,22 @@
+[
+  {
+    "type": "item_group",
+    "id": "book_fict_hard_breen",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "book_fict_hard_breen_pass", "prob": 5 },
+      { "item": "book_fict_hard_breen_pair", "prob": 5 },
+      { "item": "book_fict_hard_breen_fate", "prob": 5 },
+      { "item": "book_fict_hard_breen_here", "prob": 5 },
+      { "item": "book_fict_hard_breen_down", "prob": 5 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "SUS_book_fict_hard",
+    "copy-from": "SUS_book_fict_hard",
+    "extend": {
+      "items": [{ "group": "book_fict_hard_breen", "prob": 8 }]
+    }
+  }
+]

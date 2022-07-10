@@ -1,0 +1,29 @@
+[
+  {
+    "type": "GENERIC",
+    "category": "tools",
+    "id": "electric_kettle",
+    "name": { "str": "electric kettle" },
+    "description": "A non-functional electric kettle. Before the cataclysm this was the only sane way for heating and boiling water.",
+    "copy-from": "base_cookpot",
+    "material": ["steel", "plastic"],
+    "color": "light_gray",
+    "weight": "618 g",
+    "volume": "1466 ml",
+    "bashing": 4,
+    "pocket_data": [
+      {
+        "max_contains_volume": "1500 ml",
+        "max_contains_weight": "2 kg",
+        "watertight": true,
+        "rigid": true
+      }
+    ],
+    "delete": {
+      "qualities": [
+        ["COOK", 3],
+        ["BOIL", 2]
+      ]
+    }
+  }
+]
