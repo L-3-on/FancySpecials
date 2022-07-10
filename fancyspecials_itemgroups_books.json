@@ -15,6 +15,7 @@
     "type": "item_group",
     "id": "SUS_book_fict_hard",
     "copy-from": "SUS_book_fict_hard",
+    "subtype": "distribution",
     "extend": {
       "items": [{ "group": "book_fict_hard_breen", "prob": 8 }]
     }

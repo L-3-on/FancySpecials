@@ -3,8 +3,9 @@
     "type": "item_group",
     "id": "dishes_utility",
     "copy-from": "dishes_utility",
+    "subtype": "distribution",
     "extend": {
-      "items": [{ "group": "electric_kettle", "prob": 80 }]
+      "items": [{ "item": "electric_kettle", "prob": 80 }]
     }
   }
 ]

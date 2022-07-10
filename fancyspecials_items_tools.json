@@ -9,11 +9,11 @@
     "material": ["steel", "plastic"],
     "color": "light_gray",
     "weight": "618 g",
-    "volume": "1466 ml",
+    "volume": "1266 ml",
     "bashing": 4,
     "pocket_data": [
       {
-        "max_contains_volume": "1500 ml",
+        "max_contains_volume": "1000 ml",
         "max_contains_weight": "2 kg",
         "watertight": true,
         "rigid": true

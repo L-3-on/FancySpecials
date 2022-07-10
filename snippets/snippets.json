@@ -4,16 +4,8 @@
     "category": "scores",
     "text": [
       {
-        "id": "scores_1",
-        "text": "The card is printed with 2 boxes.  In the first box you see a tally of 5 tick marks.  The second box has a total of 9."
-      },
-      {
-        "id": "scores_2",
-        "text": "The card is printed with 2 boxes.  In the first box you see a tally of 3 tick marks.  The second box has a line trailing off to the edge and a bloody fingerprint."
-      },
-      {
-        "id": "scores_3",
-        "text": "The card is printed for a game of golf.  Someone has filled out their score for the first 9 holes."
+        "id": "scores_4",
+        "text": "The card is printed for a game of golf.  This one hasn't been used."
       }
     ]
   },
@@ -21,42 +13,6 @@
     "type": "snippet",
     "category": "charsheet",
     "text": [
-      {
-        "id": "charsheet_1",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a fighter."
-      },
-      {
-        "id": "charsheet_2",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a bard."
-      },
-      {
-        "id": "charsheet_3",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a cleric."
-      },
-      {
-        "id": "charsheet_4",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a wizard."
-      },
-      {
-        "id": "charsheet_5",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a rogue."
-      },
-      {
-        "id": "charsheet_6",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a barbarian."
-      },
-      {
-        "id": "charsheet_7",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a warlock."
-      },
-      {
-        "id": "charsheet_8",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a paladin."
-      },
-      {
-        "id": "charsheet_9",
-        "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a sorcerer."
-      },
       {
         "id": "charsheet_10",
         "text": "It's a Dungeons & Dragons 6th Edition character sheet.  This one is for a DINGUS."
@@ -144,6 +100,7 @@
       "<given_name> + <given_name> forever",
       "Be Kind",
       "Save the whales!",
+
       "Save the DINGUSES!"
     ]
   },
@@ -160,6 +117,7 @@
       "IT'S A TRAP!",
       "IF YOU'RE NOT A ZOMBIE, DON'T COME CLOSER!",
       "IF YOU'RE NOT A ZOMBIE, RUN AWAY AS FAST AS YOU CAN!",
+
       "HEY DINGUSES!"
     ]
   },
@@ -170,7 +128,9 @@
       "What is this unbearable sound!?",
       "STOP.  MY EARS",
       "I'm not a dog…",
-      "Would you kindly not do that?"
+      "Would you kindly not do that?",
+
+      "STOP IT, DINGUS!"
     ]
   },
   {
@@ -181,7 +141,9 @@
       "I'LL SHOVE THAT WHISTLE DOWN YOUR THROAT",
       "You're seriously pissing me off…",
       "I'm not a dog…",
-      "What is this unbearable sound!?"
+      "What is this unbearable sound!?",
+
+      "STOP IT, DINGUS!"
     ]
   },
   {
@@ -200,7 +162,9 @@
       "Some very interesting travel photos.",
       "Pictures of a concert of popular band.",
       "Photos of someone's luxurious house.",
-      "You feel nostalgic as you stare at the photo."
+      "You feel nostalgic as you stare at the photo.",
+
+      "A representative pictures of a DINGUS."
     ]
   },
   {

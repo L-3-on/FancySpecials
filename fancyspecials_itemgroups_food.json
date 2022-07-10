@@ -3,6 +3,7 @@
     "type": "item_group",
     "id": "groce_meat",
     "copy-from": "groce_meat",
+    "subtype": "distribution",
     "extend": {
       "items": [
         { "item": "meat_smoked", "prob": 20 },
@@ -18,6 +19,7 @@
     "type": "item_group",
     "id": "fridge",
     "copy-from": "fridge",
+    "subtype": "distribution",
     "extend": {
       "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 25 }]
     }
@@ -26,6 +28,7 @@
     "type": "item_group",
     "id": "SUS_fridge_stocked",
     "copy-from": "SUS_fridge_stocked",
+    "subtype": "collection",
     "extend": {
       "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 25 }]
     }
@@ -34,6 +37,7 @@
     "type": "item_group",
     "id": "SUS_fridge_partial_empty",
     "copy-from": "SUS_fridge_partial_empty",
+    "subtype": "collection",
     "extend": {
       "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 15 }]
     }
@@ -42,6 +46,7 @@
     "type": "item_group",
     "id": "SUS_fridge_bachelor",
     "copy-from": "SUS_fridge_bachelor",
+    "subtype": "collection",
     "extend": {
       "items": [{ "group": "groce_meat", "count": [1, 2], "prob": 15 }]
     }
@@ -50,6 +55,7 @@
     "type": "item_group",
     "id": "SUS_fridge_survivor",
     "copy-from": "SUS_fridge_survivor",
+    "subtype": "collection",
     "extend": {
       "items": [{ "group": "groce_meat", "count": [1, 4], "prob": 15 }]
     }
@@ -58,6 +64,7 @@
     "type": "item_group",
     "id": "bedroom",
     "copy-from": "bedroom",
+    "subtype": "distribution",
     "extend": { "items": [{ "item": "bagpipes", "prob": 25 }] }
   }
 ]
