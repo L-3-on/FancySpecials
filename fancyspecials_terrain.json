@@ -3,6 +3,8 @@
     "type": "terrain",
     "id": "t_splitrail_fence",
     "copy-from": "t_splitrail_fence",
+    "symbol": "LINE_OXOX",
+    "color": "brown",
     "description": "A rather stout fence made of 2x4s and fence posts, suitable for containing livestock like horses, cows and pigs. When you squint your eyes, the whole fence seems to made out of H's."
   }
 ]

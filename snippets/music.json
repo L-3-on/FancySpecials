@@ -40,6 +40,7 @@
       "not bad, not bad at all",
       "honestly kinda mediocre",
 
+      "energetic",
       "totally disco",
       "transcendent",
       "unbelievable",
@@ -106,7 +107,10 @@
       "conceptual",
       "collaborative",
       "forgotten",
-      "rhythmic"
+      "rhythmic",
+
+      "light",
+      "kinky"
     ]
   },
   {
@@ -176,7 +180,7 @@
       "narco ",
       "gangster ",
 
-      "dingus"
+      "dingus "
     ]
   },
   {
@@ -229,7 +233,9 @@
       "-hop",
       "-drums",
       "-style",
-      "-chant"
+      "-chant",
+
+      "-yodeling"
     ]
   }
 ]
