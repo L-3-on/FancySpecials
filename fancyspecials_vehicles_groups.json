@@ -1,0 +1,27 @@
+[
+  {
+    "type": "vehicle_group",
+    "id": "parking_garage",
+    "vehicles": [["ladda_model_h", 5]]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "city_vehicles",
+    "vehicles": [["ladda_model_h", 5]]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "suburban_home",
+    "vehicles": [["ladda_model_h", 5]]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "parking_garage",
+    "vehicles": [["ladda_model_h", 5]]
+  },
+  {
+    "type": "vehicle_group",
+    "id": "parkinglot",
+    "vehicles": [["ladda_model_h", 5]]
+  }
+]
