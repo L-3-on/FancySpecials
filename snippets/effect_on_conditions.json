@@ -12,6 +12,7 @@
       "For a moment, all distances seem to grow slightly.",
       "The straight lines of surrounding objects appear to be curved just so slightly.",
       "The angles of geometric objects around don't appear to add up.",
+
       "For a split second, you seem to be accompanied by a DINGUS."
     ]
   },
@@ -28,6 +29,7 @@
       "For a moment, all distances seem to grow.",
       "The straight lines of the surrounding objects seem to gain some curvature.",
       "The angles of the geometric objects around have gone awry and do not add up.",
+
       "For a split second, you seem surrounded by a group of DINGUSES."
     ]
   },
@@ -44,6 +46,7 @@
       "For a moment, all distances seem to grow much longer.",
       "The straight lines of the surrounding objects seem to bend.",
       "Euclidean geometry seems to fail at every turn.  Here and there you see impossible shapes and angles that seem to point inward as well as outward at the same time.",
+
       "For a split second, you can only see DINGUSES all around you."
     ]
   },
@@ -205,7 +208,10 @@
       "You hear a gentle voice saying \"Tell me what thy lordly name is?  Tell me, tell me, I implore!\"",
       "You hear a gentle voice saying \"I have come to lead you to the other shore; into eternal darkness; into fire and into ice.\"",
       "You hear a gentle voice saying \"The cancer devours the flesh of this world.  You're next in line, but there is a path out of this.  Just walk the way.\"",
-      "You hear a gentle voice saying \"Please come out.  I can't do this alone.  Please?\""
+      "You hear a gentle voice saying \"Please come out.  I can't do this alone.  Please?\"",
+
+      "You hear a gentle voice saying \"You know what they say: chode, chode never changes.\"",
+      "You hear a gentle voice saying \"Flying through weird orifices can be an exciting experience!\""
     ]
   },
   {
@@ -232,7 +238,9 @@
       "You hear a voice saying \"You have finally done this!  You startled the sun and made the moon howl in the night.\"",
       "You hear a voice saying \"Can you feel your heart burning?  Can you feel the struggle within?  The fear within me is beyond anything your soul can make.  You cannot kill me in a way that matters.\"",
       "You hear a voice saying \"A monologue is not a conversation.  A monologue is not a bridge of communication.  Let's speak and understand each other.\"",
-      "You hear a voice saying \"How can I listen to you when I'm the only one speaking?  Come out and express your thoughts.\""
+      "You hear a voice saying \"How can I listen to you when I'm the only one speaking?  Come out and express your thoughts.\"",
+
+      "You hear a voice saying \"This has been a comfy experience for the most part, except when old people wander off into the woods and die!\""
     ]
   },
   {
@@ -256,7 +264,9 @@
       "You hear a commanding deep voice saying \"אמת\" and you suddenly feel invigorated, but then you hear another powerful voice saying \"מת\" and the feeling is instantly washed away by an overwhelming sense of dread.",
       "You hear a confident deep voice saying \"Quod non est mortuus, quae aeterna mendacium; Et cum alienis aeons etiam morte moriatur.\"",
       "You hear a confident voice saying \"There is the one that devours.  There is the one that grows on the decay.  There are the ones that fertilize the soil with your flesh.  And you choose them rather then the embrace of the veil?\"",
-      "You hear a confident voice saying \"You call this the end?  The Cataclysm?  Open your eyes and look around.  It's never been so teeming with life.  Or is it not being on top of the chain that bothers you?\""
+      "You hear a confident voice saying \"You call this the end?  The Cataclysm?  Open your eyes and look around.  It's never been so teeming with life.  Or is it not being on top of the chain that bothers you?\"",
+
+      "You hear a confident voice saying \"There was just something hilarious about watching an infant die.\""
     ]
   },
   {
@@ -271,7 +281,11 @@
       "You hear an angry voice shouting \"BEGONE FOUL PEST!\"",
       "You hear an angry voice shouting \"NO BEING FROM YOUR PATHETIC WORLD HAS EVER CONCEIVED EVEN A FRAGMENT OF THE SUFFERING YOU SHALL ENDURE!\"",
       "You hear an angry voice shouting \"YOU POLLUTE THE PURITY OF THIS PLACE!\"",
-      "You hear an angry voice shouting \"PAIN WITHOUT END SHALL BE YOURS!\""
+      "You hear an angry voice shouting \"PAIN WITHOUT END SHALL BE YOURS!\"",
+
+      "You hear an angry voice shouting \"HEAD TO THE BACK, START WAXING THE SHAFT!\"",
+      "You hear an angry voice shouting \"CUPCAKE REPOSITORY, NOT CUPCAKE SUPPOSITORY!\"",
+      "You hear an angry voice shouting \"WE MUST UNITE THE HOLE!  THE HOLE IS NOT TO BE DENIED!\""
     ]
   },
   {
@@ -285,7 +299,11 @@
       "You hear a scared voice saying \"You will only find loss and torment here, flee while you can.\"",
       "You hear a scared voice saying \"This place will damage you as it has damaged us, leave it.\"",
       "You hear a scared voice saying \"Every moment you stay here your status as a physical object is damaged.  Leave while you are still real enough.\"",
-      "You hear a scared voice saying \"You can hurt us but not kill us in a way that matters.  We WILL win, save us the pain of destroying you.\""
+      "You hear a scared voice saying \"You can hurt us but not kill us in a way that matters.  We WILL win, save us the pain of destroying you.\"",
+
+      "You hear a scared voice saying \"I wish there was a way to selectively suck!\"",
+      "You hear a scared voice saying \"Where am I?  It is so dark.  Is that the right hole?\"",
+      "You hear a scared voice saying \"Can we not talk about my emotes fucking?\""
     ]
   },
   {
@@ -299,7 +317,11 @@
       "You hear a curious voice saying \"Do you hope to gain your eater's favor and become its finger?\"",
       "You hear a curious voice saying \"You seem most interesting, please remain here so I can continue to study you.\"",
       "You hear a curious voice saying \"Do you hope to damage the very fabric of yourself, in a way that you misperceive as beneficial?\"",
-      "You hear a curious voice saying \"Do you fear or covet us?\""
+      "You hear a curious voice saying \"Do you fear or covet us?\"",
+
+      "You hear a curious voice saying \"Is it truly a sandbox if you can't eat people?\"",
+      "You hear a curious voice saying \"Being thrown up by a fat guy through a window is at least honest, right?\"",
+      "You hear a curious voice saying \"Do you want to give your eyeballs an erection, or have them be flaccid?\""
     ]
   },
   {
@@ -311,7 +333,10 @@
       "You hear a cheerful voice saying \"Would you like to be friends?\"",
       "You hear a cheerful voice saying \"Enjoy your newfound freedom, the shackles of reality are weakened here.\"",
       "You hear a cheerful voice saying \"There is no need for you to ever leave.\"",
-      "You hear a cheerful voice saying \"Your world is dying, we can free you from the very concepts of beginnings and endings.\""
+      "You hear a cheerful voice saying \"Your world is dying, we can free you from the very concepts of beginnings and endings.\"",
+
+      "You hear a cheerful voice saying \"The chumbucket is the secret sauce!\"",
+      "You hear a cheerful voice saying \"Yeah, fisting and blasting things gets shit done!\""
     ]
   },
   {
@@ -324,7 +349,11 @@
       "You hear your own voice asking \"Did I really look like that?  Is that all we used to be, so small but solid?\"",
       "You hear your own voice sadly saying \"I wish I could say it ends well, but we both know better.\"",
       "You hear your own voice saying \"I wonder when it went wrong, at what point was it too late?\"",
-      "You hear your own voice saying \"It would have been better to be a puppet of the enemy back home than come here.\""
+      "You hear your own voice saying \"It would have been better to be a puppet of the enemy back home than come here.\"",
+
+      "You hear your own voice sadly saying \"My butt don't work… kinda wish my butt worked…\"",
+      "You hear your own voice saying \"Now you're going to get stabbed by a sharpened baguette.\"",
+      "You hear your own voice sadly saying \"Why are we committing dinosaur infanticide?\""
     ]
   },
   {
@@ -338,7 +367,9 @@
       "You hear an intoxicated voice saying \"Man this stuff is even better than you promised.  I can feel what it's like to be some tiny single bodied organism incapable of even basic dimensional manipulation.\"",
       "You hear a robotic voice saying \"Orange Harvest Gamma.  All evacuation waves consumed.\"",
       "You hear an angry voice saying \"But it's not fair, this isn't when you promised the time loop would start.\"",
-      "You hear a faint voice saying \"We are broadcasting this as a warning.  If you can hear this, abandon all hope and flee.  No where is far enough but some whens are.\""
+      "You hear a faint voice saying \"We are broadcasting this as a warning.  If you can hear this, abandon all hope and flee.  No where is far enough but some whens are.\"",
+
+      "You hear a cheerful voice saying \"Dutch and Danes?  What's the difference?  Well, one microwaves oranges, and the other participates in Necromancy!\""
     ]
   },
   {

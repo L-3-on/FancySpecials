@@ -6,6 +6,7 @@
     "subtype": "distribution",
     "extend": {
       "items": [
+        { "item": "sausage_bee_wiener", "prob": 20 },
         { "item": "meat_smoked", "prob": 20 },
         { "item": "fish_smoked", "prob": 20 },
         { "item": "salted_fish", "prob": 15 },

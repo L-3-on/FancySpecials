@@ -2,15 +2,636 @@
   {
     "type": "snippet",
     "category": "general_graffiti_snippets",
-    "text": [{ "id": "general_graffiti_34", "text": "<given_name> <3 Drid" }]
+    "text": [{ "id": "general_graffiti_34", "text": "Drid <3 <given_name>" }]
   },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_35", "text": "Crazy butt lady's gone in!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_36", "text": "Butt lady is the light of my life!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_37", "text": "The biggy pank!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_38", "text": "Butt energy!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_39", "text": "Did my butt break!?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_40", "text": "You just took my pants!?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_41", "text": "It's great, we got crabs!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_42", "text": "No chum!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_43", "text": "It's my cockpit!  I paid for it!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_44", "text": "Am I dead or is this a cutscene!?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_45", "text": "Is your butt online?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_46", "text": "OH NO!  We are doing cardio!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_47", "text": "We had to craft the blood toilet!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_48", "text": "Mmm, give me those creamy flaps!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_49", "text": "Let me just drink my condom water!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_50", "text": "Wait, is my condom empty?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_51", "text": "Give me my condom gasoline back!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_52", "text": "Walls aren't real!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_53", "text": "I've seen hos before!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_54", "text": "Beer is fucking awesome!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_55", "text": "I just took off my underpants!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_56", "text": "I'm gonna give up on foodplace!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_57", "text": "My farts kill people!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_58", "text": "I do still have feet, I think!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_59", "text": "I recycle my own fluids!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_60", "text": "I'm gonna get clapped by a pig!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_61", "text": "Dick shots are awesome!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_62", "text": "Do I have a teapot in my pants?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_63", "text": "The turgity is flowing into me!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_64", "text": "Can I make the porno yet?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_65", "text": "These are hooker seeking bullets!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_66", "text": "There's no hooker vendetta!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_67", "text": "Guess we knocked her up, whatever." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_68", "text": "Stop telling me to wax shafts!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_69", "text": "The beaver's trying to fuck me!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_70", "text": "We gave the mall a brazilian!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_71", "text": "I think I want the nipple clamps!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_72", "text": "Bounty feet!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_73", "text": "Please bite me!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_74", "text": "We're at war with the perverts!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_75", "text": "My waifu pillow made it out!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_76", "text": "I'm still cute as hell!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_77", "text": "That's tactical cleavage!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_78", "text": "Maybe I should put pants on!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_79", "text": "Another grandma down!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_80", "text": "Why are you always up my butt?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_81", "text": "I smell fucking delicious!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_82", "text": "Wolves are great for butt stuff!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_83", "text": "My butt's broke!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_84", "text": "I just got a lot of crabs!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_85", "text": "There will be so much penetration!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_86", "text": "You gotta protect your butt!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_87", "text": "Fuck, you can't blackmail kids!?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_88", "text": "Horses don't have shields!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_89", "text": "They're horny people!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_90", "text": "They're cutesy racist!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_91", "text": "Maybe the dutch can mug for us!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_92", "text": "You're the wiener ripper!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_93", "text": "What is west?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_94", "text": "Get over here so I can fist you!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_95", "text": "Negative!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_96", "text": "You wanna fuck the paper guy!?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_97", "text": "Butt ladies!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_98", "text": "I'm a regular human being!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_99", "text": "I am the Pooh." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_100", "text": "Burn the heretics!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_101", "text": "OH YES!  HURT ME SO GOOD!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_102", "text": "Stop it wind, you bitch!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_103", "text": "And now our dongs are one." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_104", "text": "So mine is bigger than yours…" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_105", "text": "Oh no, the French like me!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_106", "text": "Yoink that meat!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_107", "text": "Error connecting to remote server!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_108", "text": "I'm 72!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_109", "text": "Let's go fist a crab!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_110", "text": "Yes, underpants." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_111", "text": "GO EAT SPAGHETTI YOU MORON!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_112", "text": "I'm being somewhat misrepresented!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_113", "text": "I'm a dirty boy." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_114", "text": "Oh right!  I can eat people!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_115", "text": "Great wars are a WONDERFUL thing!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_116", "text": "Toasters and genitals don't mix." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_117", "text": "I am a slut for strings!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_118", "text": "Communism is coming, and so am I." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_119", "text": "A soggy mess in my mouth!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_120", "text": "Capitalists are Dinguses!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_121", "text": "Yes, I drive a model T!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_122", "text": "The doors are lies!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_123", "text": "Give me that butt poke!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_124", "text": "Let's uh, let's just end it, yeah?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_125", "text": "The kangaroo is real!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_126", "text": "I'm a bastard!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_127", "text": "Interdict me daddy!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_128", "text": "Get literate, you fucks!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_129", "text": "Go ram that dick!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_130", "text": "You can keep your country loads." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_131", "text": "The groin is awesome!!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_132", "text": "Beep!!!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_133", "text": "We got prostitutes and money!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_134", "text": "I eat your booty like groceries!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_135", "text": "I have a dedicated crotch fan." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_136", "text": "I like backhanding people." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_137", "text": "Can you not disappoint me?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_138", "text": "I need me some cooties!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_139", "text": "Queen Victoria was a hoe!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_140", "text": "Consider yourself banged!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_141", "text": "Black ladies are top tier." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_142", "text": "Gas attack is a hell of a drug!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_143", "text": "My shit is in an uproar over here." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_144", "text": "Do you speakenzy dunch comrade?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_145", "text": "Same plan: work the dick then the eyes!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_146", "text": "I have another spot on my 24 inch dong…" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_147", "text": "I don't care who touches me as long as they give me money." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_148", "text": "Can people stop wanting to fuck me?  I'd really appreciate it." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_149", "text": "They are aggressively killing themselves, it's kinda interesting." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_150", "text": "How did George Lucas destroy his art?  Oh, he like re-edited the original versions of star trek!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_151", "text": "We have to create pooping isolation booths!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_152", "text": "I should pound a bunch of beers and go to sleep!  Seems like the responsible thing to do." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_153", "text": "There was going to be a tidal wave of dudes to fist!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_154", "text": "There are few things in life as satisfying as getting on the butt of a dommy." }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_155", "text": "Just leave me to jerk off through this tree!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_156", "text": "Dingus shaped butt plug?  It's already in the works!" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_157", "text": "Can we talk about big balls for a second?" }]
+  },
+  {
+    "type": "snippet",
+    "category": "general_graffiti_snippets",
+    "text": [{ "id": "general_graffiti_158", "text": "It was like getting Arby's down, but we did it!" }]
+  },
+
   {
     "type": "snippet",
     "category": "shelter_graffiti_snippets",
     "text": [
       {
         "id": "shelter_graffiti_36",
-        "text": "This is a far-too-detailed drawing of an enormous DINGUS."
+        "text": "This is a far-too-detailed drawing of an enormous dingus."
       }
     ]
   }

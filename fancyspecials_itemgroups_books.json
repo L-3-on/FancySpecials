@@ -19,5 +19,29 @@
     "extend": {
       "items": [{ "group": "book_fict_hard_breen", "prob": 8 }]
     }
+  },
+
+  {
+    "type": "item_group",
+    "id": "book_letters_children",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "book_letters_d", "prob": 5 },
+      { "item": "book_letters_f", "prob": 5 },
+      { "item": "book_letters_h", "prob": 5 },
+      { "item": "book_letters_l", "prob": 5 },
+      { "item": "book_letters_t", "prob": 5 },
+      { "item": "book_letters_w", "prob": 5 },
+      { "item": "book_letters_z", "prob": 5 }
+    ]
+  },
+  {
+    "type": "item_group",
+    "id": "kids_books",
+    "copy-from": "kids_books",
+    "subtype": "distribution",
+    "extend": {
+      "items": [{ "group": "book_letters_children", "prob": 25 }]
+    }
   }
 ]

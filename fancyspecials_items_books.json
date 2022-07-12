@@ -19,6 +19,7 @@
     "name": { "str": "Breen Exalted Media" },
     "description": "Breen Exalted Media was a highly praised publisher providing exalted philosophical literature about the higher meaning of life itself.  These books offer insights in the deepest depths of our soul and always deliver uplifting \"turgidity\".",
     "time": "36 m",
+    "extend": { "flags": [ "INSPIRATIONAL", "TINDER" ] },
     "relative": { "price": 500, "price_postapoc": -2500 }
   },
   {
@@ -80,5 +81,63 @@
     "volume": "1826 ml",
     "longest_side": "30 cm",
     "price": 1989
+  },
+
+
+  {
+    "type": "BOOK",
+    "id": "book_letters_tpl",
+    "copy-from": "child_book",
+    "name": { "str": "Book: Letters Template" },
+    "flags": [ "TINDER" ]
+  },
+  {
+    "id": "book_letters_d",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'D' like Dingus" },
+    "description": "A tiny book for tiny readers, telling a story about the great Dingus stream and all the wonders he encounters while flowing through the country.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'D'."
+  },
+  {
+    "id": "book_letters_f",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'F' like Fist" },
+    "description": "A tiny book for tiny readers, telling a story about the evolution of the human hand and all the goals humans we can achieve thanks to this.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'F'."
+  },
+  {
+    "id": "book_letters_h",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'H' like Hag" },
+    "description": "A tiny book for tiny readers, telling a story about an aging hag and the ways her life changes through the centuries.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'H'."
+  },
+  {
+    "id": "book_letters_l",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'L' like Ladder" },
+    "description": "A tiny book for tiny readers, telling a story about a broken ladder and a family of snakes, fixing it.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'L'."
+  },
+  {
+    "id": "book_letters_t",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'T' like Toilet" },
+    "description": "A tiny book for tiny readers, telling a story about a professional cleaner and all the issues he's confronted with while cleaning public restrooms.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'T'.  In the lower left corner on the cover page an imprint says \"This edition was sponsored by the 'Council of Public Utilities Commissioners, New England'\""
+  },
+  {
+    "id": "book_letters_w",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'W' like Wiener" },
+    "description": "A tiny book for tiny readers, telling a story about the famous \"Bee's Wiener\" and why eating meat is essential for a young body.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'W'.  In the lower left corner on the cover page an imprint says \"This edition was sponsored by 'Sysco & Bee Meat(TM) Farms Co., New England'\""
+  },
+  {
+    "id": "book_letters_z",
+    "type": "BOOK",
+    "copy-from": "book_letters_tpl",
+    "name": { "str": "'Z' like Zombie" },
+    "description": "A tiny book for tiny readers, telling a story about a lonely zombie and the troubles he goes through, trying to collect flowers for the love of his (un)life.  This colorful book belongs to a serie, dedicated to the letters of the alphabet.  This one is devoted to the letter 'Z'."
   }
 ]
