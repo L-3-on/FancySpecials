@@ -1,0 +1,34 @@
+[
+  {
+    "id": "mon_zombie_brute_shocker",
+    "type": "MONSTER",
+    "name": { "str": " (shocker brute)" },
+    "copy-from": "mon_zombie_brute_shocker",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_electric",
+    "type": "MONSTER",
+    "name": { "str": " (shocker zombie)" },
+    "copy-from": "mon_zombimon_zombie_electrice_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_nullfield",
+    "type": "MONSTER",
+    "name": { "str": " (incandescent husk)" },
+    "copy-from": "mon_zombie_nullfield",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_static",
+    "type": "MONSTER",
+    "name": { "str": " (zapper zombie)" },
+    "copy-from": "mon_zombie_static",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

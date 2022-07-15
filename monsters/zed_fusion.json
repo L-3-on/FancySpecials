@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mon_crawler",
+    "type": "MONSTER",
+    "name": { "str": " (crawler)" },
+    "copy-from": "mon_crawler",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_devourer",
+    "type": "MONSTER",
+    "name": { "str": " (dissoluted devourer)" },
+    "copy-from": "mon_devourer",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_devourer_lab_sec",
+    "type": "MONSTER",
+    "name": { "str": " (melded task force)" },
+    "copy-from": "mon_devourer_lab_sec",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_crushed_giant",
+    "type": "MONSTER",
+    "name": { "str": " (trapped tendril)" },
+    "copy-from": "mon_zombie_crushed_giant",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_gasbag_immobile",
+    "type": "MONSTER",
+    "name": { "str_sp": " (gangrenous flesh)" },
+    "copy-from": "mon_zombie_gasbag_immobile",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_gasbag_crawler",
+    "type": "MONSTER",
+    "name": { "str": " (gangrenous crawler)" },
+    "copy-from": "mon_zombie_gasbag_crawler",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_gasbag_impaler",
+    "type": "MONSTER",
+    "name": { "str": " (gangrenous impaler)" },
+    "copy-from": "mon_zombie_gasbag_impaler",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_scissorlimbs",
+    "type": "MONSTER",
+    "name": { "str_sp": " (scissorlimbs)" },
+    "copy-from": "mon_zombie_scissorlimbs",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_hanging_innards",
+    "type": "MONSTER",
+    "name": { "str_sp": " (hanging innards)" },
+    "copy-from": "mon_zombie_hanging_innards",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

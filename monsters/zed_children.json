@@ -1,0 +1,66 @@
+[
+  {
+    "id": "mon_zombie_anklebiter",
+    "type": "MONSTER",
+    "name": { "str": " (anklebiter)" },
+    "copy-from": "mon_zombie_anklebiter",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_child",
+    "type": "MONSTER",
+    "name": { "str": " (zombie child)" },
+    "copy-from": "mon_zombie_child",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_creepy",
+    "type": "MONSTER",
+    "name": { "str": " (creepy crawler)" },
+    "copy-from": "mon_zombie_creepy",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_shriekling",
+    "type": "MONSTER",
+    "name": { "str": " (shriekling)" },
+    "copy-from": "mon_zombie_shriekling",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_snotgobbler",
+    "type": "MONSTER",
+    "name": { "str": " (snotgobbler)" },
+    "copy-from": "mon_zombie_snotgobbler",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_sproglodyte",
+    "type": "MONSTER",
+    "name": { "str": " (sproglodyte)" },
+    "copy-from": "mon_zombie_sproglodyte",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_waif",
+    "type": "MONSTER",
+    "name": { "str": " (howling waif)" },
+    "copy-from": "mon_zombie_waif",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_wretch",
+    "type": "MONSTER",
+    "name": { "str": " (swollen wretch)" },
+    "copy-from": "mon_zombie_wretch",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

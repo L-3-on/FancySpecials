@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mon_zombie_winged",
+    "type": "MONSTER",
+    "name": { "str": " (batwing zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_brute_winged",
+    "type": "MONSTER",
+    "name": { "str": " (garghoul)" },
+    "copy-from": "mon_zombie_brute_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_spawn_raptor",
+    "type": "MONSTER",
+    "name": { "str": " (flesh-raptor)" },
+    "copy-from": "mon_spawn_raptor",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "type": "MONSTER",
+    "id": "mon_spawn_raptor_shady",
+    "name": { "str": " (shadow raptor)" },
+    "copy-from": "mon_spawn_raptor_shady",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "type": "MONSTER",
+    "id": "mon_spawn_raptor_unstable",
+    "name": { "str_sp": " (unstable flesh-raptor)" },
+    "copy-from": "mon_spawn_raptor_unstable",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "type": "MONSTER",
+    "id": "mon_spawn_raptor_electric",
+    "name": { "str": " (zaptor)" },
+    "copy-from": "mon_spawn_raptor_electric",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

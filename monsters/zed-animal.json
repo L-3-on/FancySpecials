@@ -1,0 +1,138 @@
+[
+  {
+    "id": "mon_zhark",
+    "type": "MONSTER",
+    "name": { "str": " (jawed terror)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_dog",
+    "type": "MONSTER",
+    "name": { "str": " (zombie dog)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_dog_zombie_cop",
+    "type": "MONSTER",
+    "name": { "str": " (Z-9)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_dog_zombie_rot",
+    "type": "MONSTER",
+    "name": { "str": " (rot-weiler)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zolf",
+    "type": "MONSTER",
+    "name": { "str": " (grim howler)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombear",
+    "type": "MONSTER",
+    "name": { "str": " (zombear)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_pig",
+    "type": "MONSTER",
+    "name": { "str": " (festering boar)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombeaver",
+    "type": "MONSTER",
+    "name": { "str": " (zombeaver)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zoose",
+    "type": "MONSTER",
+    "name": { "str": " (antlered horror)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zougar",
+    "type": "MONSTER",
+    "name": { "str": " (decayed pouncer)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_horse",
+    "type": "MONSTER",
+    "name": { "str": " (zombie horse)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_ziger",
+    "type": "MONSTER",
+    "name": { "str": " (tiger wight)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zow",
+    "type": "MONSTER",
+    "name": { "str": " (zombie cow)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombull",
+    "type": "MONSTER",
+    "name": { "str": " (zombull)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zeer",
+    "type": "MONSTER",
+    "name": { "str": " (woodland wight)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zpider_mass",
+    "type": "MONSTER",
+    "name": { "str": " (mass of zombie spiders)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zeindeer",
+    "type": "MONSTER",
+    "name": { "str": " (zeindeer)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

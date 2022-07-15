@@ -27,10 +27,10 @@
   },
   {
     "type": "COMESTIBLE",
-    "id": "sausage_bee_wiener",
+    "id": "sausage_bee_Weiner",
     "copy-from": "sausage",
-    "name": { "str": "Bee's Wiener" },
-    "description": "Sysco & Bee Meat(TM) Farms Co., second largest meat processing company in New England, was famous for it's big seller \"Bee's Wiener\".  A cooked and smoked sausage composed of pork and beef and refined with bits of Gruyere cheese.  \"A sausage to die for! - Bee's Wiener\"",
+    "name": { "str": "Bee's Weiner" },
+    "description": "Sysco & Bee Meat(TM) Farms Co., second largest meat processing company in New England, was famous for it's big seller \"Bee's Weiner\".  A cooked and smoked sausage composed of pork and beef and refined with bits of Gruyere cheese.  \"A sausage to die for! - Bee's Weiner\"",
     "fun": 8
   }
 ]

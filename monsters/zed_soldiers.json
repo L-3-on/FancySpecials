@@ -1,0 +1,138 @@
+[
+  {
+    "id": "mon_zombie_soldier",
+    "type": "MONSTER",
+    "name": { "str": " (zombie soldier)" },
+    "copy-from": "mon_zombie_soldier",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_soldier_blackops_1",
+    "type": "MONSTER",
+    "name": { "str": " (black-ops zombie)" },
+    "copy-from": "mon_zombie_soldier_blackops_1",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_soldier_blackops_2",
+    "type": "MONSTER",
+    "name": { "str": " (hunter-killer zombie)" },
+    "copy-from": "mon_zombie_soldier_blackops_2",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_soldier_acid_1",
+    "type": "MONSTER",
+    "name": { "str": " (bilious soldier zombie)" },
+    "copy-from": "mon_zombie_soldier_acid_1",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_soldier_acid_2",
+    "type": "MONSTER",
+    "name": { "str": " (caustic soldier zombie)" },
+    "copy-from": "mon_zombie_soldier_acid_2",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_kevlar_1",
+    "type": "MONSTER",
+    "name": { "str": " (Kevlar zombie)" },
+    "copy-from": "mon_zombie_kevlar_1",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_kevlar_2",
+    "type": "MONSTER",
+    "name": { "str": " (Kevlar hulk)" },
+    "copy-from": "mon_zombie_kevlar_2",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_military_pilot",
+    "type": "MONSTER",
+    "name": { "str": " (zombie military pilot)" },
+    "copy-from": "mon_zombie_military_pilot",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_milbase_personnel",
+    "type": "MONSTER",
+    "name": { "str": " (uniformed zombie)" },
+    "copy-from": "mon_zombie_milbase_personnel",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_sailor",
+    "type": "MONSTER",
+    "name": { "str": " (zombie mariner)" },
+    "copy-from": "mon_zombie_sailor",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_officer",
+    "type": "MONSTER",
+    "name": { "str": " (zombie officer)" },
+    "copy-from": "mon_zombie_officer",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_marine",
+    "type": "MONSTER",
+    "name": { "str": " (Devil Dog)" },
+    "copy-from": "mon_zombie_marine",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_marine_upgrade",
+    "type": "MONSTER",
+    "name": { "str": " (twisted leatherneck)" },
+    "copy-from": "mon_zombie_marine_upgrade",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_flamer",
+    "type": "MONSTER",
+    "name": { "str": " (zombie burner)" },
+    "copy-from": "mon_zombie_flamer",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_armored",
+    "type": "MONSTER",
+    "name": { "str": " (armored zombie)" },
+    "copy-from": "mon_zombie_armored",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_bio_op",
+    "type": "MONSTER",
+    "name": { "str": " (zombie bio-operator)" },
+    "copy-from": "mon_zombie_bio_op",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_bio_op2",
+    "type": "MONSTER",
+    "name": { "str": " (elite zombie bio-operator)" },
+    "copy-from": "mon_zombie_bio_op2",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

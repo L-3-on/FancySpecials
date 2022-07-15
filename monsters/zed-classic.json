@@ -1,0 +1,106 @@
+[
+  {
+    "id": "mon_beekeeper",
+    "type": "MONSTER",
+    "name": { "str": " (scarred zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie",
+    "type": "MONSTER",
+    "name": { "str": " (zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_cop",
+    "type": "MONSTER",
+    "name": { "str": " (zombie cop)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_crawler",
+    "type": "MONSTER",
+    "name": { "str": " (crawling zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_dancer",
+    "type": "MONSTER",
+    "name": { "str": " (zombie dancer)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_fat",
+    "type": "MONSTER",
+    "name": { "str": " (fat zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_fireman",
+    "type": "MONSTER",
+    "name": { "str": " (firefighter zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_hazmat",
+    "type": "MONSTER",
+    "name": { "str": " (hazmat zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_rot",
+    "type": "MONSTER",
+    "name": { "str": " (decayed zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_swat",
+    "type": "MONSTER",
+    "name": { "str": " (SWAT zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_tough",
+    "type": "MONSTER",
+    "name": { "str": " (tough zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_resort_dancer",
+    "type": "MONSTER",
+    "name": { "str": " (sleek zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_resort_bouncer",
+    "type": "MONSTER",
+    "name": { "str": " (bouncer zombie)" },
+    "copy-from": "mon_zombie_winged",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

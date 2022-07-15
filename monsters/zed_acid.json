@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mon_zombie_acidic",
+    "type": "MONSTER",
+    "name": { "str": " (acidic zombie)" },
+    "copy-from": "mon_zombie_acidic",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_corrosive",
+    "type": "MONSTER",
+    "name": { "str": " (corrosive zombie)" },
+    "copy-from": "mon_zombie_corrosive",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_spitter",
+    "type": "MONSTER",
+    "name": { "str": " (spitter zombie)" },
+    "copy-from": "mon_zombie_spitter",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_wretched",
+    "type": "MONSTER",
+    "name": { "str": " (wretched puker)" },
+    "copy-from": "mon_zombie_wretched",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_dog_acidic",
+    "type": "MONSTER",
+    "name": { "str": " (acidic zombie dog)" },
+    "copy-from": "mon_zombie_dog_acidic",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  },
+  {
+    "id": "mon_zombie_dog_brute_acidic",
+    "type": "MONSTER",
+    "name": { "str": " (blistered horror)" },
+    "copy-from": "mon_zombie_dog_brute_acidic",
+    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
+    "upgrades": {  }
+  }
+]

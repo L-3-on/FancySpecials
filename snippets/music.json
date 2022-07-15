@@ -4,15 +4,21 @@
     "category": "<music_description>",
     "text": [
       "some <musicgenre>.",
-      "some <musicgenre> with a noteworthy <musicdesc_part>.",
+      "some <musicgenre> featuring a noteworthy <musicdesc_part>.",
+      "some <musicgenre>.",
       "some <musicgenre>. Sounds <musicdesc_evaluation>.",
-      "some <musicgenre>. The <musicdesc_part> is <musicdesc_evaluation>."
+      "some <musicgenre>.",
+      "some <musicgenre>. The <musicdesc_part> is <musicdesc_evaluation>.",
+      "some <musicgenre>.",
+      "some <musicgenre>. You had prefered some <musicgenre> right now."
     ]
   },
   {
     "type": "snippet",
     "category": "<musicgenre>",
     "text": [
+      "<musicgenre_adj> <musicgenre_prefix><musicgenre_noun><musicgenre_postfix>",
+      "<musicgenre_prefix><musicgenre_noun><musicgenre_postfix>",
       "<musicgenre_adj> <musicgenre_prefix><musicgenre_noun>",
       "<musicgenre_prefix><musicgenre_noun>",
       "<musicgenre_adj> <musicgenre_noun><musicgenre_postfix>",
@@ -81,10 +87,14 @@
 
       "bagpipes part",
       "cello",
+      "harmonica",
       "harp section",
+      "piano",
       "sax",
       "solo",
+      "strings section",
       "synthesizer part",
+      "tuba",
       "trumpet section",
       "xylophone"
     ]
@@ -451,6 +461,7 @@
       "-grind",
       "-hit",
       "-medley",
+      "-necro",
       "-phonics",
       "-scape",
       "-synthesis",
