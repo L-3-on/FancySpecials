@@ -4,6 +4,8 @@
     "category": "<music_description>",
     "text": [
       "some <musicgenre>.",
+      "some <musicgenre> with a noteworthy <musicdesc_part>.",
+      "some <musicgenre>. Sounds <musicdesc_evaluation>.",
       "some <musicgenre>. The <musicdesc_part> is <musicdesc_evaluation>."
     ]
   },
@@ -79,7 +81,12 @@
 
       "bagpipes part",
       "cello",
-      "solo"
+      "harp section",
+      "sax",
+      "solo",
+      "synthesizer part",
+      "trumpet section",
+      "xylophone"
     ]
   },
   {
@@ -359,6 +366,7 @@
       "Nu ",
       "psy",
       "symphonic ",
+      "tech",
       "tribal ",
       "ultra ",
       "viking "
