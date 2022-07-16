@@ -1,64 +1,64 @@
 [
   {
-    "id": "mon_zombie_anklebiter",
+    "id": "mon_zombie_anklebiter_tc",
     "type": "MONSTER",
-    "name": { "str": " (anklebiter)" },
+    "name": { "str": "barrakus666 (anklebiter)" },
     "copy-from": "mon_zombie_anklebiter",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_child",
+    "id": "mon_zombie_child_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie child)" },
+    "name": { "str": "Amazon455 (zombie child)" },
     "copy-from": "mon_zombie_child",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_creepy",
+    "id": "mon_zombie_creepy_tc",
     "type": "MONSTER",
-    "name": { "str": " (creepy crawler)" },
+    "name": { "str": "Wootonius (creepy crawler)" },
     "copy-from": "mon_zombie_creepy",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_shriekling",
+    "id": "mon_zombie_shriekling_tc",
     "type": "MONSTER",
-    "name": { "str": " (shriekling)" },
+    "name": { "str": "KhrullGaming (shriekling)" },
     "copy-from": "mon_zombie_shriekling",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_snotgobbler",
+    "id": "mon_zombie_snotgobbler_tc",
     "type": "MONSTER",
-    "name": { "str": " (snotgobbler)" },
+    "name": { "str": "causlord (snotgobbler)" },
     "copy-from": "mon_zombie_snotgobbler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_sproglodyte",
+    "id": "mon_zombie_sproglodyte_tc",
     "type": "MONSTER",
-    "name": { "str": " (sproglodyte)" },
+    "name": { "str": "fantom978 (sproglodyte)" },
     "copy-from": "mon_zombie_sproglodyte",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_waif",
+    "id": "mon_zombie_waif_tc",
     "type": "MONSTER",
-    "name": { "str": " (howling waif)" },
+    "name": { "str": "nerdysakura (howling waif)" },
     "copy-from": "mon_zombie_waif",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_wretch",
+    "id": "mon_zombie_wretch_tc",
     "type": "MONSTER",
-    "name": { "str": " (swollen wretch)" },
+    "name": { "str": "Keeshhound (swollen wretch)" },
     "copy-from": "mon_zombie_wretch",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

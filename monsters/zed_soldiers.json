@@ -1,136 +1,136 @@
 [
   {
-    "id": "mon_zombie_soldier",
+    "id": "mon_zombie_soldier_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie soldier)" },
+    "name": { "str": "Dr_Black_PHNX (zombie soldier)" },
     "copy-from": "mon_zombie_soldier",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_soldier_blackops_1",
+    "id": "mon_zombie_soldier_blackops_1_tc",
     "type": "MONSTER",
-    "name": { "str": " (black-ops zombie)" },
+    "name": { "str": "doithesotgshagreauhgwe (black-ops zombie)" },
     "copy-from": "mon_zombie_soldier_blackops_1",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_soldier_blackops_2",
+    "id": "mon_zombie_soldier_blackops_2_tc",
     "type": "MONSTER",
-    "name": { "str": " (hunter-killer zombie)" },
+    "name": { "str": "Chevayo_ (hunter-killer zombie)" },
     "copy-from": "mon_zombie_soldier_blackops_2",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_soldier_acid_1",
+    "id": "mon_zombie_soldier_acid_1_tc",
     "type": "MONSTER",
-    "name": { "str": " (bilious soldier zombie)" },
+    "name": { "str": "stillbevens (bilious soldier zombie)" },
     "copy-from": "mon_zombie_soldier_acid_1",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_soldier_acid_2",
+    "id": "mon_zombie_soldier_acid_2_tc",
     "type": "MONSTER",
-    "name": { "str": " (caustic soldier zombie)" },
+    "name": { "str": "ptkato (caustic soldier zombie)" },
     "copy-from": "mon_zombie_soldier_acid_2",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_kevlar_1",
+    "id": "mon_zombie_kevlar_1_tc",
     "type": "MONSTER",
-    "name": { "str": " (Kevlar zombie)" },
+    "name": { "str": "FaustJoust (Kevlar zombie)" },
     "copy-from": "mon_zombie_kevlar_1",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_kevlar_2",
+    "id": "mon_zombie_kevlar_2_tc",
     "type": "MONSTER",
-    "name": { "str": " (Kevlar hulk)" },
+    "name": { "str": "camelcowboy69 (Kevlar hulk)" },
     "copy-from": "mon_zombie_kevlar_2",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_military_pilot",
+    "id": "mon_zombie_military_pilot_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie military pilot)" },
+    "name": { "str": "weej55 (zombie military pilot)" },
     "copy-from": "mon_zombie_military_pilot",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_milbase_personnel",
+    "id": "mon_zombie_milbase_personnel_tc",
     "type": "MONSTER",
-    "name": { "str": " (uniformed zombie)" },
+    "name": { "str": "Iriis25 (uniformed zombie)" },
     "copy-from": "mon_zombie_milbase_personnel",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_sailor",
+    "id": "mon_zombie_sailor_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie mariner)" },
+    "name": { "str": "Last_Bite_Of_Macaroni (zombie mariner)" },
     "copy-from": "mon_zombie_sailor",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_officer",
+    "id": "mon_zombie_officer_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie officer)" },
+    "name": { "str": "ThePillsburyJoeboy (zombie officer)" },
     "copy-from": "mon_zombie_officer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_marine",
+    "id": "mon_zombie_marine_tc",
     "type": "MONSTER",
-    "name": { "str": " (Devil Dog)" },
+    "name": { "str": "Backyard_Brawler (Devil Dog)" },
     "copy-from": "mon_zombie_marine",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_marine_upgrade",
+    "id": "mon_zombie_marine_upgrade_tc",
     "type": "MONSTER",
-    "name": { "str": " (twisted leatherneck)" },
+    "name": { "str": "Aviatus (twisted leatherneck)" },
     "copy-from": "mon_zombie_marine_upgrade",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_flamer",
+    "id": "mon_zombie_flamer_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie burner)" },
+    "name": { "str": "Chronocook (zombie burner)" },
     "copy-from": "mon_zombie_flamer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_armored",
+    "id": "mon_zombie_armored_tc",
     "type": "MONSTER",
-    "name": { "str": " (armored zombie)" },
+    "name": { "str": "caius_cosades2 (armored zombie)" },
     "copy-from": "mon_zombie_armored",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_bio_op",
+    "id": "mon_zombie_bio_op_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie bio-operator)" },
+    "name": { "str": "charlyfox410 (zombie bio-operator)" },
     "copy-from": "mon_zombie_bio_op",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_bio_op2",
+    "id": "mon_zombie_bio_op2_tc",
     "type": "MONSTER",
-    "name": { "str": " (elite zombie bio-operator)" },
+    "name": { "str": "ComStar_3068 (elite zombie bio-operator)" },
     "copy-from": "mon_zombie_bio_op2",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

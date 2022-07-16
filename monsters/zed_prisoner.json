@@ -1,32 +1,32 @@
 [
   {
-    "id": "mon_zombie_prisoner",
+    "id": "mon_zombie_prisoner_tc",
     "type": "MONSTER",
-    "name": { "str": " (prisoner zombie)" },
+    "name": { "str": "Roadmankilla (prisoner zombie)" },
     "copy-from": "mon_zombie_prisoner",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_prisoner_brute",
+    "id": "mon_zombie_prisoner_brute_tc",
     "type": "MONSTER",
-    "name": { "str": " (prisoner brute)" },
+    "name": { "str": "Theannoyingflyingthing (prisoner brute)" },
     "copy-from": "mon_zombie_prisoner_brute",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_prisoner_fat",
+    "id": "mon_zombie_prisoner_fat_tc",
     "type": "MONSTER",
-    "name": { "str": " (fat prisoner)" },
+    "name": { "str": "Rackham00 (fat prisoner)" },
     "copy-from": "mon_zombie_prisoner_fat",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_prisoner_tough",
+    "id": "mon_zombie_prisoner_tough_tc",
     "type": "MONSTER",
-    "name": { "str": " (tough prisoner)" },
+    "name": { "str": "sobernova (tough prisoner)" },
     "copy-from": "mon_zombie_prisoner_tough",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

@@ -3,344 +3,344 @@
     "type": "monstergroup",
     "name": "GROUP_LAB",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_SECURITY",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_SURFACE",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MICROLAB",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_DISTORTED_MICROLAB",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_BASIC_SECURITY",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_MILITARY",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_MAINTENANCE",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_RESEARCHERS",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LAB_FEMA",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_SUBWAY",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MASS_GRAVE",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MIL_MASS_GRAVE",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_BEACH",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_SCHOOL",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_incendiary_bomb", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_ZOMBIE",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_HOUSE",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_scrapper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_FIRE",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_CHURCH_ZOMBIE",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_scrapper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_RESORT_MIXED_STAFF",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_RESORT_MIXED",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_CAVE",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MIL_WEAK",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MIL_STRONG",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MIL_BASE",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MIL_BASE_CIVILIAN",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MIL_BASE_HOSPITAL",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_SEWER",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MALL",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_GROCERY",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_ELECTRO",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_PHARM",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_HOSPITAL",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_POLICE",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_PREPPER_HOUSE",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_MANSION",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_STEEL_MILL",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_PUBLICWORKERS",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_LARGE_STATION",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_shotgun", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_ZOMBIE_PRISON",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_ZOMBIE_COP",
     "monsters": [
-      { "monster": "mon_bandits_looter", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_rifle", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "FERAL_HUMANS",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   },
   {
     "type": "monstergroup",
     "name": "GROUP_VANILLA",
     "monsters": [
-      { "monster": "mon_bandits_high_explosive_bomb", "weight": 1, "cost_multiplier": 1 },
-      { "monster": "mon_bandits_super_sniper", "weight": 1, "cost_multiplier": 1 }
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 },
+      { "monster": "mon_zombie_tc_", "weight": 1, "cost_multiplier": 1 }
     ]
   }
 ]

@@ -1,105 +1,105 @@
 [
   {
-    "id": "mon_beekeeper",
+    "id": "mon_beekeeper_tc",
     "type": "MONSTER",
-    "name": { "str": " (scarred zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "gekkobear (scarred zombie)" },
+    "copy-from": "mon_beekeeper",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie",
+    "id": "mon_zombie_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "Lafo2 (zombie)" },
+    "copy-from": "mon_zombie",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_cop",
+    "id": "mon_zombie_cop_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie cop)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "Sir_Lactose (zombie cop)" },
+    "copy-from": "mon_zombie_cop",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_crawler",
+    "id": "mon_zombie_crawler_tc",
     "type": "MONSTER",
-    "name": { "str": " (crawling zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "OttoRaynar (crawling zombie)" },
+    "copy-from": "mon_zombie_crawler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_dancer",
+    "id": "mon_zombie_dancer_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie dancer)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "loathsomegreg (zombie dancer)" },
+    "copy-from": "mon_zombie_dancer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_fat",
+    "id": "mon_zombie_fat_tc",
     "type": "MONSTER",
-    "name": { "str": " (fat zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "wyvvern (fat zombie)" },
+    "copy-from": "mon_zombie_fat",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_fireman",
+    "id": "mon_zombie_fireman_tc",
     "type": "MONSTER",
-    "name": { "str": " (firefighter zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "CS_Hague (firefighter zombie)" },
+    "copy-from": "mon_zombie_fireman",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_hazmat",
+    "id": "mon_zombie_hazmat_tc",
     "type": "MONSTER",
-    "name": { "str": " (hazmat zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "00_Falcon_00 (hazmat zombie)" },
+    "copy-from": "mon_zombie_hazmat",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_rot",
+    "id": "mon_zombie_rot_tc",
     "type": "MONSTER",
-    "name": { "str": " (decayed zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "TrolletGrahim (decayed zombie)" },
+    "copy-from": "mon_zombie_rot",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_swat",
+    "id": "mon_zombie_swat_tc",
     "type": "MONSTER",
-    "name": { "str": " (SWAT zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "Draginea (SWAT zombie)" },
+    "copy-from": "mon_zombie_swat",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_tough",
+    "id": "mon_zombie_tough_tc",
     "type": "MONSTER",
-    "name": { "str": " (tough zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "Bellicosity (tough zombie)" },
+    "copy-from": "mon_zombie_tough",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_resort_dancer",
+    "id": "mon_zombie_resort_dancer_tc",
     "type": "MONSTER",
-    "name": { "str": " (sleek zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "ganegrei (sleek zombie)" },
+    "copy-from": "mon_zombie_resort_dancer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_resort_bouncer",
+    "id": "mon_zombie_resort_bouncer_tc",
     "type": "MONSTER",
-    "name": { "str": " (bouncer zombie)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "shoGGofu (bouncer zombie)" },
+    "copy-from": "mon_zombie_resort_bouncer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   }

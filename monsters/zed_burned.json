@@ -1,24 +1,24 @@
 [
   {
-    "id": "mon_zombie_child_scorched",
+    "id": "mon_zombie_child_scorched_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie kinderling)" },
+    "name": { "str": "cgw1462 (zombie kinderling)" },
     "copy-from": "mon_zombie_child_scorched",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_fiend",
+    "id": "mon_zombie_fiend_tc",
     "type": "MONSTER",
-    "name": { "str": " (fiend)" },
+    "name": { "str": "VagabondAzulien (fiend)" },
     "copy-from": "mon_zombie_fiend",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_scorched",
+    "id": "mon_zombie_scorched_tc",
     "type": "MONSTER",
-    "name": { "str": " (scorched zombie)" },
+    "name": { "str": "Prince_Robot (scorched zombie)" },
     "copy-from": "mon_zombie_scorched",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

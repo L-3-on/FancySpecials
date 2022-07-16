@@ -1,32 +1,32 @@
 [
   {
-    "id": "mon_skeleton",
+    "id": "mon_skeleton_tc",
     "type": "MONSTER",
-    "name": { "str": " (skeletal zombie)" },
+    "name": { "str": "dandybarfinkle (skeletal zombie)" },
     "copy-from": "mon_skeleton",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_skeleton_brute",
+    "id": "mon_skeleton_brute_tc",
     "type": "MONSTER",
-    "name": { "str": " (skeletal brute)" },
+    "name": { "str": "Dbo_D (skeletal brute)" },
     "copy-from": "mon_skeleton_brute",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_skeleton_electric",
+    "id": "mon_skeleton_electric_tc",
     "type": "MONSTER",
-    "name": { "str": " (skeletal shocker)" },
+    "name": { "str": "DocMaho (skeletal shocker)" },
     "copy-from": "mon_skeleton_electric",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_skeleton_hulk",
+    "id": "mon_skeleton_hulk_tc",
     "type": "MONSTER",
-    "name": { "str": " (skeletal juggernaut)" },
+    "name": { "str": "iTheVaultDweller (skeletal juggernaut)" },
     "copy-from": "mon_skeleton_hulk",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

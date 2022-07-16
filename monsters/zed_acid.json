@@ -1,48 +1,48 @@
 [
   {
-    "id": "mon_zombie_acidic",
+    "id": "mon_zombie_acidic_tc",
     "type": "MONSTER",
-    "name": { "str": " (acidic zombie)" },
+    "name": { "str": "Diceyyyy (acidic zombie)" },
     "copy-from": "mon_zombie_acidic",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_corrosive",
+    "id": "mon_zombie_corrosive_tc",
     "type": "MONSTER",
-    "name": { "str": " (corrosive zombie)" },
+    "name": { "str": "ActionHank (corrosive zombie)" },
     "copy-from": "mon_zombie_corrosive",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_spitter",
+    "id": "mon_zombie_spitter_tc",
     "type": "MONSTER",
-    "name": { "str": " (spitter zombie)" },
+    "name": { "str": "Royal_Ruckus (spitter zombie)" },
     "copy-from": "mon_zombie_spitter",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_wretched",
+    "id": "mon_zombie_wretched_tc",
     "type": "MONSTER",
-    "name": { "str": " (wretched puker)" },
+    "name": { "str": "wessaint (wretched puker)" },
     "copy-from": "mon_zombie_wretched",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_dog_acidic",
+    "id": "mon_zombie_dog_acidic_tc",
     "type": "MONSTER",
-    "name": { "str": " (acidic zombie dog)" },
+    "name": { "str": "lunchbox37 (acidic zombie dog)" },
     "copy-from": "mon_zombie_dog_acidic",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_dog_brute_acidic",
+    "id": "mon_zombie_dog_brute_acidic_tc",
     "type": "MONSTER",
-    "name": { "str": " (blistered horror)" },
+    "name": { "str": "sirkaixtelworth (blistered horror)" },
     "copy-from": "mon_zombie_dog_brute_acidic",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

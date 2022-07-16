@@ -1,264 +1,264 @@
 [
   {
-    "id": "mon_frog_mother",
+    "id": "mon_frog_mother_tc",
     "type": "MONSTER",
-    "name": { "str": " (frog mother)" },
+    "name": { "str": "rng313 (frog mother)" },
     "copy-from": "mon_frog_mother",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_tadpole_grabber",
+    "id": "mon_tadpole_grabber_tc",
     "type": "MONSTER",
-    "name": { "str": " (tadpole constrictor)" },
+    "name": { "str": "pandabum1 (tadpole constrictor)" },
     "copy-from": "mon_tadpole_grabber",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_biter",
+    "id": "mon_zombie_biter_tc",
     "type": "MONSTER",
-    "name": { "str": " (slavering biter)" },
+    "name": { "str": "niikopocalypse (slavering biter)" },
     "copy-from": "mon_zombie_biter",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_brainless",
+    "id": "mon_zombie_brainless_tc",
     "type": "MONSTER",
-    "name": { "str": " (brainless zombie)" },
+    "name": { "str": "Kauhuoa (brainless zombie)" },
     "copy-from": "mon_zombie_brainless",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_afs_headless_horror",
+    "id": "mon_afs_headless_horror_tc",
     "type": "MONSTER",
-    "name": { "str": " (headless horror)" },
+    "name": { "str": "LongIslandIcedChi (headless horror)" },
     "copy-from": "mon_afs_headless_horror",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_brute",
+    "id": "mon_zombie_brute_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie brute)" },
+    "name": { "str": "gammma_phi (zombie brute)" },
     "copy-from": "mon_zombie_brute",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_brute_grappler",
+    "id": "mon_zombie_brute_grappler_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie wrestler)" },
+    "name": { "str": "1nfestedRaynor (zombie wrestler)" },
     "copy-from": "mon_zombie_brute_grappler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_brute_ninja",
+    "id": "mon_zombie_brute_ninja_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie nightstalker)" },
+    "name": { "str": "exocia (zombie nightstalker)" },
     "copy-from": "mon_zombie_brute_ninja",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_ears",
+    "id": "mon_zombie_ears_tc",
     "type": "MONSTER",
-    "name": { "str": " (listener zombie)" },
+    "name": { "str": "3ldergod (listener zombie)" },
     "copy-from": "mon_zombie_ears",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_nemesis",
+    "id": "mon_zombie_nemesis_tc",
     "type": "MONSTER",
-    "name": { "str": " (relentless hulk)" },
+    "name": { "str": "ShadowRat07 (relentless hulk)" },
     "copy-from": "mon_zombie_nemesis",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_grabber",
+    "id": "mon_zombie_grabber_tc",
     "type": "MONSTER",
-    "name": { "str": " (grabber zombie)" },
+    "name": { "str": "Trojari (grabber zombie)" },
     "copy-from": "mon_zombie_grabber",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_grappler",
+    "id": "mon_zombie_grappler_tc",
     "type": "MONSTER",
-    "name": { "str": " (grappler zombie)" },
+    "name": { "str": "THE_BBP (grappler zombie)" },
     "copy-from": "mon_zombie_grappler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_hollow",
+    "id": "mon_zombie_hollow_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie hollow)" },
+    "name": { "str": "SjabbaTV (zombie hollow)" },
     "copy-from": "mon_zombie_hollow",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_hulk",
+    "id": "mon_zombie_hulk_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie hulk)" },
+    "name": { "str": "wambambola (zombie hulk)" },
     "copy-from": "mon_zombie_hulk",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_hunter",
+    "id": "mon_zombie_hunter_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie hunter)" },
+    "name": { "str": "SoylentSystem (zombie hunter)" },
     "copy-from": "mon_zombie_hunter",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_mancroc",
+    "id": "mon_zombie_mancroc_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie snapper)" },
+    "name": { "str": "naketjam (zombie snapper)" },
     "copy-from": "mon_zombie_mancroc",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_master",
+    "id": "mon_zombie_master_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie master)" },
+    "name": { "str": "MissDeeSnuts (zombie master)" },
     "copy-from": "mon_zombie_master",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_necro",
+    "id": "mon_zombie_necro_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie necromancer)" },
+    "name": { "str": "mulnic (zombie necromancer)" },
     "copy-from": "mon_zombie_necro",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_necro_boomer",
+    "id": "mon_zombie_necro_boomer_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie necro-boomer)" },
+    "name": { "str": "Jubei216 (zombie necro-boomer)" },
     "copy-from": "mon_zombie_necro_boomer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_runner",
+    "id": "mon_zombie_runner_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie runner)" },
+    "name": { "str": "jorlski (zombie runner)" },
     "copy-from": "mon_zombie_runner",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_regenerating",
+    "id": "mon_zombie_regenerating_tc",
     "type": "MONSTER",
-    "name": { "str": " (regenerating zombie)" },
+    "name": { "str": "htowntxballa (regenerating zombie)" },
     "copy-from": "mon_zombie_regenerating",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_predator",
+    "id": "mon_zombie_predator_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie predator)" },
+    "name": { "str": "DrBrewski (zombie predator)" },
     "copy-from": "mon_zombie_predator",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_screecher",
+    "id": "mon_zombie_screecher_tc",
     "type": "MONSTER",
-    "name": { "str": " (screecher zombie)" },
+    "name": { "str": "amwhere (screecher zombie)" },
     "copy-from": "mon_zombie_screecher",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_shady",
+    "id": "mon_zombie_shady_tc",
     "type": "MONSTER",
-    "name": { "str": " (shady zombie)" },
+    "name": { "str": "DropInDran (shady zombie)" },
     "copy-from": "mon_zombie_shady",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_skull",
+    "id": "mon_zombie_skull_tc",
     "type": "MONSTER",
-    "name": { "str": " (skull zombie)" },
+    "name": { "str": "MiracleGus (skull zombie)" },
     "copy-from": "mon_zombie_skull",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_smoker",
+    "id": "mon_zombie_smoker_tc",
     "type": "MONSTER",
-    "name": { "str": " (smoker zombie)" },
+    "name": { "str": "SanityNtInclded (smoker zombie)" },
     "copy-from": "mon_zombie_smoker",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_smoker_brute",
+    "id": "mon_smoker_brute_tc",
     "type": "MONSTER",
-    "name": { "str": " (ashen brawler)" },
+    "name": { "str": "Shibity (ashen brawler)" },
     "copy-from": "mon_smoker_brute",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_swimmer_base",
+    "id": "mon_zombie_swimmer_base_tc",
     "type": "MONSTER",
-    "name": { "str": " (swimmer zombie)" },
+    "name": { "str": "AyvuirB (swimmer zombie)" },
     "copy-from": "mon_zombie_swimmer_base",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_swimmer",
+    "id": "mon_zombie_swimmer_tc",
     "type": "MONSTER",
-    "name": { "str": " (webbed zombie)" },
+    "name": { "str": "Kippering (webbed zombie)" },
     "copy-from": "mon_zombie_swimmer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_technician",
+    "id": "mon_zombie_technician_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie technician)" },
+    "name": { "str": "bahguett3 (zombie technician)" },
     "copy-from": "mon_zombie_technician",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_miner",
+    "id": "mon_zombie_miner_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie miner)" },
+    "name": { "str": "buymepop (zombie miner)" },
     "copy-from": "mon_zombie_miner",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_thorny",
+    "id": "mon_zombie_thorny_tc",
     "type": "MONSTER",
-    "name": { "str": " (thorny shambler)" },
+    "name": { "str": "Eaglestrike2 (thorny shambler)" },
     "copy-from": "mon_zombie_thorny",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_reenactor",
+    "id": "mon_zombie_reenactor_tc",
     "type": "MONSTER",
-    "name": { "str": " (ravenous reenactor)" },
+    "name": { "str": "DraconisEquus (ravenous reenactor)" },
     "copy-from": "mon_zombie_reenactor",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

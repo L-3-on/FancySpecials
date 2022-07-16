@@ -1,40 +1,40 @@
 [
   {
-    "id": "mon_zombie_crawler_pupa_decoy",
+    "id": "mon_zombie_crawler_pupa_decoy_tc",
     "type": "MONSTER",
-    "name": { "str": " (pupating zombie crawler)" },
+    "name": { "str": "Aatos (pupating zombie crawler)" },
     "copy-from": "mon_zombie_crawler_pupa_decoy",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_pupa_decoy",
+    "id": "mon_zombie_pupa_decoy_tc",
     "type": "MONSTER",
-    "name": { "str": " (pupating zombie)" },
+    "name": { "str": "TheBlueJerrys (pupating zombie)" },
     "copy-from": "mon_zombie_pupa_decoy",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_brute_pupa_decoy",
+    "id": "mon_brute_pupa_decoy_tc",
     "type": "MONSTER",
-    "name": { "str": " (pupating brute)" },
+    "name": { "str": "yesbutwilltherebeacat (pupating brute)" },
     "copy-from": "mon_brute_pupa_decoy",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_hulk_pupa_decoy",
+    "id": "mon_hulk_pupa_decoy_tc",
     "type": "MONSTER",
-    "name": { "str": " (hive hulk)" },
+    "name": { "str": "Zalasur (hive hulk)" },
     "copy-from": "mon_hulk_pupa_decoy",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_pupa_decoy_shady",
+    "id": "mon_zombie_pupa_decoy_shady_tc",
     "type": "MONSTER",
-    "name": { "str": " (shady pupating zombie)" },
+    "name": { "str": "Vermantis (shady pupating zombie)" },
     "copy-from": "mon_zombie_pupa_decoy_shady",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

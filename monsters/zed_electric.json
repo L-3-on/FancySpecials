@@ -1,32 +1,32 @@
 [
   {
-    "id": "mon_zombie_brute_shocker",
+    "id": "mon_zombie_brute_shocker_tc",
     "type": "MONSTER",
-    "name": { "str": " (shocker brute)" },
+    "name": { "str": "verifiablyhuman (shocker brute)" },
     "copy-from": "mon_zombie_brute_shocker",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_electric",
+    "id": "mon_zombie_electric_tc",
     "type": "MONSTER",
-    "name": { "str": " (shocker zombie)" },
+    "name": { "str": "Xx69Cliche420xX (shocker zombie)" },
     "copy-from": "mon_zombimon_zombie_electrice_winged",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_nullfield",
+    "id": "mon_zombie_nullfield_tc",
     "type": "MONSTER",
-    "name": { "str": " (incandescent husk)" },
+    "name": { "str": "forgottenlies1987 (incandescent husk)" },
     "copy-from": "mon_zombie_nullfield",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_static",
+    "id": "mon_zombie_static_tc",
     "type": "MONSTER",
-    "name": { "str": " (zapper zombie)" },
+    "name": { "str": "SunchaserCDN (zapper zombie)" },
     "copy-from": "mon_zombie_static",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

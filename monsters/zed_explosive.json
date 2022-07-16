@@ -1,56 +1,56 @@
 [
   {
-    "id": "mon_boomer",
+    "id": "mon_boomer_tc",
     "type": "MONSTER",
-    "name": { "str": " (boomer)" },
+    "name": { "str": "Fogsight (boomer)" },
     "copy-from": "mon_boomer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_boomer_huge",
+    "id": "mon_boomer_huge_tc",
     "type": "MONSTER",
-    "name": { "str": " (huge boomer)" },
+    "name": { "str": "The_Guper (huge boomer)" },
     "copy-from": "mon_boomer_huge",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_gas_zombie",
+    "id": "mon_gas_zombie_tc",
     "type": "MONSTER",
-    "name": { "str": " (gasoline zombie)" },
+    "name": { "str": "EquestrianDiplomat (gasoline zombie)" },
     "copy-from": "mon_gas_zombie",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_gasbag",
+    "id": "mon_zombie_gasbag_tc",
     "type": "MONSTER",
-    "name": { "str": " (bloated zombie)" },
+    "name": { "str": "Nightulip (bloated zombie)" },
     "copy-from": "mon_zombie_gasbag",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_relax_gasbag",
+    "id": "mon_zombie_relax_gasbag_tc",
     "type": "MONSTER",
-    "name": { "str": " (sleepwalker zombie)" },
+    "name": { "str": "Nuidler (sleepwalker zombie)" },
     "copy-from": "mon_zombie_relax_gasbag",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_boomer_glutton",
+    "id": "mon_boomer_glutton_tc",
     "type": "MONSTER",
-    "name": { "str": " (boomer glutton)" },
+    "name": { "str": "gindytwitch (boomer glutton)" },
     "copy-from": "mon_boomer_glutton",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_boomer_claymore",
+    "id": "mon_boomer_claymore_tc",
     "type": "MONSTER",
-    "name": { "str": " (bombardier boomer)" },
+    "name": { "str": "punchcones (bombardier boomer)" },
     "copy-from": "mon_boomer_claymore",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

@@ -1,32 +1,32 @@
 [
   {
-    "id": "mon_zombie_scientist",
+    "id": "mon_zombie_scientist_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie scientist)" },
+    "name": { "str": "knewster (zombie scientist)" },
     "copy-from": "mon_zombie_scientist",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_labsecurity",
+    "id": "mon_zombie_labsecurity_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie security guard)" },
+    "name": { "str": "madXonion (zombie security guard)" },
     "copy-from": "mon_zombie_labsecurity",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_phase_skulker",
+    "id": "mon_zombie_phase_skulker_tc",
     "type": "MONSTER",
-    "name": { "str": " (phase skulker)" },
+    "name": { "str": "Nabu373 (phase skulker)" },
     "copy-from": "mon_zombie_phase_skulker",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_phase_shrike",
+    "id": "mon_zombie_phase_shrike_tc",
     "type": "MONSTER",
-    "name": { "str": " (phase shrike)" },
+    "name": { "str": "Rotibobr (phase shrike)" },
     "copy-from": "mon_zombie_phase_shrike",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

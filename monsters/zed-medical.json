@@ -1,41 +1,25 @@
 [
   {
-    "id": "mon_zombie_medical",
+    "id": "mon_zombie_medical_tc",
     "type": "MONSTER",
-    "name": { "str": " (zombie medic)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "TyCobbSG (zombie medic)" },
+    "copy-from": "mon_zombie_medical",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_medical_brute",
+    "id": "mon_zombie_medical_brute_tc",
     "type": "MONSTER",
-    "name": { "str": " (medical horror)" },
-    "copy-from": "mon_zombie_winged",
+    "name": { "str": "warng1286 (medical horror)" },
+    "copy-from": "mon_zombie_medical_brute",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_medical_regenerating",
+    "id": "mon_zombie_medical_regenerating_tc",
     "type": "MONSTER",
-    "name": { "str": " (regenerating zombie medic)" },
-    "copy-from": "mon_zombie_winged",
-    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
-    "upgrades": {  }
-  },
-  {
-    "id": "mon_skeleton_medical",
-    "type": "MONSTER",
-    "name": { "str_sp": " (sawbones)" },
-    "copy-from": "mon_skeleton_medical",
-    "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
-    "upgrades": {  }
-  },
-  {
-    "id": "mon_zombie_medical_acidic",
-    "type": "MONSTER",
-    "name": { "str_sp": " (doctor burns)" },
-    "copy-from": "mon_zombie_medical_acidic",
+    "name": { "str": "Membranes1 (regenerating zombie medic)" },
+    "copy-from": "mon_zombie_medical_regenerating",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   }

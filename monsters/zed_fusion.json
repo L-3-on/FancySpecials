@@ -1,72 +1,72 @@
 [
   {
-    "id": "mon_crawler",
+    "id": "mon_crawler_tc",
     "type": "MONSTER",
-    "name": { "str": " (crawler)" },
+    "name": { "str": "VariousMeats (crawler)" },
     "copy-from": "mon_crawler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_devourer",
+    "id": "mon_devourer_tc",
     "type": "MONSTER",
-    "name": { "str": " (dissoluted devourer)" },
+    "name": { "str": "Fat_Harry (dissoluted devourer)" },
     "copy-from": "mon_devourer",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_devourer_lab_sec",
+    "id": "mon_devourer_lab_sec_tc",
     "type": "MONSTER",
-    "name": { "str": " (melded task force)" },
+    "name": { "str": "walledgardengaming (melded task force)" },
     "copy-from": "mon_devourer_lab_sec",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_crushed_giant",
+    "id": "mon_zombie_crushed_giant_tc",
     "type": "MONSTER",
-    "name": { "str": " (trapped tendril)" },
+    "name": { "str": "xeleonn (trapped tendril)" },
     "copy-from": "mon_zombie_crushed_giant",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_gasbag_immobile",
+    "id": "mon_zombie_gasbag_immobile_tc",
     "type": "MONSTER",
-    "name": { "str_sp": " (gangrenous flesh)" },
+    "name": { "str_sp": "YaciTV (gangrenous flesh)" },
     "copy-from": "mon_zombie_gasbag_immobile",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_gasbag_crawler",
+    "id": "mon_zombie_gasbag_crawler_tc",
     "type": "MONSTER",
-    "name": { "str": " (gangrenous crawler)" },
+    "name": { "str": "tassad_ (gangrenous crawler)" },
     "copy-from": "mon_zombie_gasbag_crawler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_gasbag_impaler",
+    "id": "mon_zombie_gasbag_impaler_tc",
     "type": "MONSTER",
-    "name": { "str": " (gangrenous impaler)" },
+    "name": { "str": "Sherool (gangrenous impaler)" },
     "copy-from": "mon_zombie_gasbag_impaler",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_scissorlimbs",
+    "id": "mon_zombie_scissorlimbs_tc",
     "type": "MONSTER",
-    "name": { "str_sp": " (scissorlimbs)" },
+    "name": { "str_sp": "santdreamer (scissorlimbs)" },
     "copy-from": "mon_zombie_scissorlimbs",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_hanging_innards",
+    "id": "mon_zombie_hanging_innards_tc",
     "type": "MONSTER",
-    "name": { "str_sp": " (hanging innards)" },
+    "name": { "str_sp": "Gislefah (hanging innards)" },
     "copy-from": "mon_zombie_hanging_innards",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

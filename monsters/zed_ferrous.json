@@ -1,40 +1,40 @@
 [
   {
-    "id": "mon_zombie_rust",
+    "id": "mon_zombie_rust_tc",
     "type": "MONSTER",
-    "name": { "str": " (rust zombie)" },
+    "name": { "str": "Nexgrato (rust zombie)" },
     "copy-from": "mon_zombie_rust",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_shell",
+    "id": "mon_zombie_shell_tc",
     "type": "MONSTER",
-    "name": { "str": " (rust shell zombie)" },
+    "name": { "str": "imc200200 (rust shell zombie)" },
     "copy-from": "mon_zombie_shell",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_plated",
+    "id": "mon_zombie_plated_tc",
     "type": "MONSTER",
-    "name": { "str": " (rust plated zombie)" },
+    "name": { "str": "slyph0x (rust plated zombie)" },
     "copy-from": "mon_zombie_plated",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_urchin",
+    "id": "mon_zombie_urchin_tc",
     "type": "MONSTER",
-    "name": { "str": " (rust urchin)" },
+    "name": { "str": "fflanky1 (rust urchin)" },
     "copy-from": "mon_zombie_urchin",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_hammer_hands",
+    "id": "mon_zombie_hammer_hands_tc",
     "type": "MONSTER",
-    "name": { "str": " (rust fist brute)" },
+    "name": { "str": "deskness (rust fist brute)" },
     "copy-from": "mon_zombie_hammer_hands",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }

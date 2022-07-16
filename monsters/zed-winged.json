@@ -1,48 +1,48 @@
 [
   {
-    "id": "mon_zombie_winged",
+    "id": "mon_zombie_winged_tc",
     "type": "MONSTER",
-    "name": { "str": " (batwing zombie)" },
+    "name": { "str": "LegioNonus (batwing zombie)" },
     "copy-from": "mon_zombie_winged",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_zombie_brute_winged",
+    "id": "mon_zombie_brute_winged_tc",
     "type": "MONSTER",
-    "name": { "str": " (garghoul)" },
+    "name": { "str": "sarg_sobek (garghoul)" },
     "copy-from": "mon_zombie_brute_winged",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
-    "id": "mon_spawn_raptor",
+    "id": "mon_spawn_raptor_tc",
     "type": "MONSTER",
-    "name": { "str": " (flesh-raptor)" },
+    "name": { "str": "FaizedFox (flesh-raptor)" },
     "copy-from": "mon_spawn_raptor",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
     "type": "MONSTER",
-    "id": "mon_spawn_raptor_shady",
-    "name": { "str": " (shadow raptor)" },
+    "id": "mon_spawn_raptor_shady_tc",
+    "name": { "str": "emmytea (shadow raptor)" },
     "copy-from": "mon_spawn_raptor_shady",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
     "type": "MONSTER",
-    "id": "mon_spawn_raptor_unstable",
-    "name": { "str_sp": " (unstable flesh-raptor)" },
+    "id": "mon_spawn_raptor_unstable_tc",
+    "name": { "str_sp": "GreeN153 (unstable flesh-raptor)" },
     "copy-from": "mon_spawn_raptor_unstable",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
   },
   {
     "type": "MONSTER",
-    "id": "mon_spawn_raptor_electric",
-    "name": { "str": " (zaptor)" },
+    "id": "mon_spawn_raptor_electric_tc",
+    "name": { "str": "Ljosapaldr (zaptor)" },
     "copy-from": "mon_spawn_raptor_electric",
     "proportional": { "hp": 0.9, "speed": 1.1, "melee_dice": 2, "vision_night": 1.35 },
     "upgrades": {  }
